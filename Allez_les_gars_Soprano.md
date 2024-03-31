@@ -1,6 +1,6 @@
 # Allez les gars - soprano
 
-> Première note : sol  
+> Première note : sol  (ouuu + refrain) 
 [↓] : mélodie vers le bas  
 [↑] : mélodie vers le haut  
 
@@ -56,5 +56,8 @@ __Allez les gars combien on vous paye
 Combien on vous paye pour faire ça  
 Allez les gars combien on vous paye  
 Combien on vous paye pour faire ça__   
+
+*[FIN]*
+
 
 
