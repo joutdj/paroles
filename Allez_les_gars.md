@@ -1,6 +1,6 @@
 # Allez les gars
 
-## Première note    
+## Premières notes     
 - Soprano : __sol__    
 - Alto : __mi bémol__    
 - Tenor : __si bémol__   
@@ -39,9 +39,9 @@ On nous attaque, on se défend
 Désolé si c’est toi qui prends   
 
 >__Allez les gars combien on vous paye   
->Combien on vous paye pour faire ça   
->Allez les gars combien on vous paye   
->Combien on vous paye pour faire ça__  
+Combien on vous paye pour faire ça   
+Allez les gars combien on vous paye   
+Combien on vous paye pour faire ça__  
 
 *[3]*    
 Pense à ceux pour qui tu travailles   
@@ -54,7 +54,7 @@ La vie qu’t’avais rêvé pour toi,
 Cogner des gens pour faire tes heures   
 T’aurais mieux fait d’rester chômeur.   
 
-__Allez les gars combien on vous paye   
+>__Allez les gars combien on vous paye   
 Combien on vous paye pour faire ça   
 Allez les gars combien on vous paye   
 Combien on vous paye pour faire ça__   
@@ -70,7 +70,7 @@ T’es bien dressé, baratiné,
 Mais au moins j’aurai essayé    
 Avant les bosses de te causer.   
 
-__Allez les gars combien on vous paye   
+>__Allez les gars combien on vous paye   
 Combien on vous paye pour faire ça   
 Allez les gars combien on vous paye   
 Combien on vous paye pour faire ça__     
