@@ -7,9 +7,8 @@
 - Basse : __mi bémol__   
 
 ## Paroles
-*[1 - Soprano, Alto, Tenor]*     
-Ouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu *[sur 2 couplets]*    
-
+*[1 - Soprano, Alto, Tenor - sur 2 couplets]*     
+Ouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu   
 *[1 - Basse]*    
 Oh, je n’oublierai pas devant nous, les casqués    
 Les fusils lance-grenades et les grands boucliers    
@@ -77,3 +76,10 @@ Combien on vous paye pour faire ça__
 
 *[FIN]*
 
+## Crédits 
+
+arrangé par et pour la chorale anarchiste de lausanne   
+et mis à disposition libre et non marchande   
+ni dieu, ni maître, ni ©   
+
+texte mis-en-forme ici par la chorale anarchiste de genève  
