@@ -2,6 +2,8 @@
 
 Version brouillon de jou (soprano).<br />
 
+## Sommaire
+
 [Allez les gars](#allez-les-gars)<br />
 [Here's to you](#here-s-to-you)<br />
 [La révolte](#la-revolte)<br />
@@ -22,81 +24,81 @@ Version brouillon de jou (soprano).<br />
 
 ## Allez les gars
 
-1. SAT : Ouuuuuuuuuuu  (2 notes)<br />
-B : (Oh, je n’oublierai pas devant nous, les casqués <br />
+1. *(SAT, sur 2 notes :)* Ouuuuuuuuuuu<br />
+*(B : Oh, je n’oublierai pas devant nous, les casqués <br />
 Les fusils lance-grenades et les grands boucliers <br />
 Tout ça pour nous forcer quand nous n’avions pour nous <br />
-Que nos poings, le bon droit, et puis quelques cailloux.) <br />
+Que nos poings, le bon droit, et puis quelques cailloux.)* <br />
 
-2. SAT : Ouuuuuuuuuuu  (2 notes)<br />
-(B : D’abord on s’avançait en frappant dans les mains <br />
+2. *(SAT, sur 2 notes :)* Ouuuuuuuuuuu<br />
+*(B : D’abord on s’avançait en frappant dans les mains <br />
 Y en avait parmi eux des vraies têtes de gamins <br />
 Les regards s’affrontaient, face à face, de tout près <br />
-Eux devaient la boucler, nous pas, et on chantait: )<br />
+Eux devaient la boucler, nous pas, et on chantait: )* <br />
 
-3. Tutti : Allez les gars combien on vous paye <br />
+3. *(Tutti :)* __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
-Combien on vous paye pour faire ça <br />
+Combien on vous paye pour faire ça__ <br />
 
-4. Combien ça vaut, quel est le prix v<br />
-De te faire détester ainsi v<br />
+4. ↓Combien ça vaut, quel est le prix<br />
+↓De te faire détester ainsi<br />
 Par tout ces gens qu’tu connais pas <br />
 Qui sans ça n’auraient rien contr’toi <br />
 
-5. Tu sais nous on n’est pas méchant-e-s ^<br />
-On ne grenade pas les enfants ^<br />
+5. ↑Tu sais nous on n’est pas méchant-e-s<br />
+↑On ne grenade pas les enfants<br />
 On nous attaque, on se défend <br />
 Désolé si c’est toi qui prends <br />
 
-6. Allez les gars combien on vous paye<br />
+6. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
-Combien on vous paye pour faire ça <br />
+Combien on vous paye pour faire ça__ <br />
 
-7.Pense à ceux pour qui tu travailles v<br />
-Qu’on voit jamais dans la bataille v<br />
+7. ↓Pense à ceux pour qui tu travailles<br />
+↓Qu’on voit jamais dans la bataille<br />
 Pendant qu’tu encaisses des cailloux <br />
 Les actionnaires ramassent les sous <br />
 
-8. Avoue franchement, c’est quand même pas ^<br />
-La vie qu’t’avais rêvé pour toi, ^<br />
+8. ↑Avoue franchement, c’est quand même pas<br />
+↑La vie qu’t’avais rêvé pour toi,<br />
 Cogner des gens pour faire tes heures <br />
 T’aurais mieux fait d’rester chômeur.<br />
 
-9. Allez les gars combien on vous paye<br />
+9. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
-Combien on vous paye pour faire ça <br />
+Combien on vous paye pour faire ça__ <br />
 
-10. Je ne me fais guère d’illusions v<br />
-Sur la portée de cette chanson v<br />
+10. ↓Je ne me fais guère d’illusions<br />
+↓Sur la portée de cette chanson<br />
 Je sais qu’tu vas pas hésiter <br />
 Dans deux minutes à m’castagner <br />
 
-11. Je sais qu’tu vas pas hésiter ^<br />
-T’es bien dressé, baratiné, ^<br />
+11. ↑Je sais qu’tu vas pas hésiter<br />
+↑T’es bien dressé, baratiné,<br />
 Mais au moins j’aurai essayé <br />
 Avant les bosses de te causer.<br />
 
-12. Allez les gars combien on vous paye<br />
+12. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
-Combien on vous paye pour faire ça <br />
-<br />
+Combien on vous paye pour faire ça__ <br />
+
 [top](#chansonnier-jou) <br />
 
 ## Here's to you 
 
-1. Here's to you Nicola and Bart<br />
+1. __Here's to you Nicola and Bart<br />
 Rest forever here in our hearts<br />
 The last and final moment is yours<br />
-That agony is your triumph<br />
+That agony is your triumph__ <br />
 <br />
-3x<br />
+*(3x)*<br />
 <br />
-Puis 2x lalala<br />
-<br />
+*(Puis 2x :)* __lalala__ <br />
+
 [top](#chansonnier-jou) <br />
 
 ## La révolte 
@@ -111,98 +113,103 @@ Sous le joug qui courba nos têtes,<br />
 Car nous voulons nous affranchir<br />
 De ce qui cause nos misères.<br />
 
-3. Église, parlement,<br />
+3. __Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
 Patrons et gouvernants,<br />
-Débarrassons-nous du capitalisme<br />
-
-4. Pressant est notre appel,<br />
+Débarrassons-nous du capitalisme <br />
+Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
-Nous réaliserons l'Idéal libertaire !<br />
-5. Ouvriers ou bien paysans,<br />
+Nous réaliserons l'Idéal libertaire !__ <br />
+
+4. Ouvriers ou bien paysans,<br />
 Travailleuses de la terre ou de l'usine,<br />
 Nous sommes, dès nos jeunes ans,<br />
 Réduit-e-s au labeur qui nous mine.<br />
 
-6. D'un bout du monde à l'autre bout,<br />
+5. D'un bout du monde à l'autre bout,<br />
 C'est nous qui créons l'abondance;<br />
 C'est nous tous qui produisons tout<br />
 Et nous vivons dans l'indigence.<br />
 
-7. Église, parlement,<br />
+6. __Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
 Patrons et gouvernants,<br />
-Débarrassons-nous du capitalisme<br />
-
-8. Pressant est notre appel,<br />
+Débarrassons-nous du capitalisme <br />
+Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
-Nous réaliserons l'Idéal libertaire !<br />
-9. L'État nous écrase d'impôts<br />
+Nous réaliserons l'Idéal libertaire !__<br />
+
+7. L'État nous écrase d'impôts<br />
 Il faut payer ses juges et sa flicaille<br />
 Et si nous protestons trop haut<br />
 Au nom de l'ordre on nous mitraille<br />
 
-10. Les maître(u)s ont changé cent fois<br />
+8. Les maître(u)s ont changé cent fois<br />
 C'est le jeu de la démocratie<br />
 Quels que soient ceux qui font les lois<br />
 C'est toujours la même(uh) supercherie.<br />
 
-11. Église, parlement,<br />
+9. __Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
 Patrons et gouvernants,<br />
 Débarrassons-nous du capitalisme<br />
-
-12. Pressant est notre appel,<br />
+Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
-Nous réaliserons l'Idéal libertaire !<br />
+Nous réaliserons l'Idéal libertaire !__<br />
 
-13. Pour défendre les intérêts<br />
+10. Pour défendre les intérêts<br />
 Des flibustiers de la grande industrie<br />
 On nous ordonne d'être prêt-e-s<br />
 A mourir pour notre patrie<br />
 
-14. Nous ne possédons rien de rien<br />
+11. Nous ne possédons rien de rien<br />
 Nous avons horreur de la guerre<br />
 Voleurs, défendez votre bien<br />
 Ce n'est pas à nous de le faire.<br />
 
-15. Église, parlement,<br />
+12. __Église, parlement,<br />
 Patriarcat, Etat, militarisme...<br />
 Patrons et gouvernants,<br />
 Débarrassons-nous du capitalisme<br />
 Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
-Nous réaliserons l'Idéal libertaire !<br />
-<br />
+Nous réaliserons l'Idéal libertaire !__<br />
+
 [top](#chansonnier-jou) <br />
 
 ## The digger's song
 
-1. You noble diggers all stand up now, stand up now... x2<br />
+1. __You noble diggers all stand up now, stand up now,
+You noble diggers all stand up now__ <br />
 The wasteland to maintain sing cavaliers by name<br />
 Your digging does maintain and persons all_ defame<br />
 Stand up now, stand up now<br />
 
-2. Your houses they pull down, stand up now... x2<br />
+2. __Your houses they pull down, stand up now, stand up now, <br />
+Your houses they pull down, stand up now__
+<br />
 Your houses they pull down to fright your men in town<br />
 But the gentry must come down and the poor shall wear_ the crown<br />
 Stand up now diggers all<br />
 
-3. With spades and hoes and ploughs, stand up now... x2<br />
+3. __With spades and hoes and ploughs, stand up now, stand up now,<br />
+With spades and hoes and ploughs, stand up now__<br />
 Your freedom to uphold sing cavaliers are bold<br />
 To kill you if they could and rights from you_ to hold<br />
 Stand up now diggers all<br />
 
-4. The gentry are all round, stand up now... x2<br />
+4. __The gentry are all round, stand up now, stand up now,<br />
+The gentry are all round, stand up now__ <br />
 The gentry are all round on each side the are found<br />
 Their wisdom so profound to cheat us of our ground<br />
 Stand up now stand up now<br />
 
-5. The lawyers they conjoin, stand up now... x2<br />
+5. __The lawyers they conjoin, stand up now, stand up now,<br />
+The lawyers they conjoin, stand up now__ <br />
 To rescue they advise, such fury they_ devise, <br />
 The devil in them lies and hath blinded both their eyes<br />
 Stand up now, stand up now<br />
@@ -211,95 +218,95 @@ Stand up now, stand up now<br />
 
 ## Avenue du Dragon
 
-Paroles et musique de Christian Paccoud<br />
-<br />
+*(Paroles et musique de Christian Paccoud)*<br />
 
-1. Craches le feu, l’amour et dit ton nom !<br />
+1. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
-Craches les feu, l’amour et dit ton nom !<br />
-Qu’on l’entende avenue du dragon !<br />
+Craches les feu, l’amour et dis ton nom !<br />
+Qu’on l’entende avenue du dragon !__<br />
 <br />
 
-2. (Moi, c’est Paul et j’ai pas de chaussettes,<br />
+2. *(Moi, c’est Paul et j’ai pas de chaussettes,<br />
 Ca fait mal aux pieds quand je vais travailler.<br />
-J’ai trois gosses et six loyers de dettes)<br />
-Et je vais coucher dans la cage d’escalier.<br />
+J’ai trois gosses et six loyers de dettes)* <br />
+__Et je vais coucher dans la cage d’escalier.__<br />
 
-3. (Moi, c’est Sam et j’ai pas de chaussures,<br />
+3. *(Moi, c’est Sam et j’ai pas de chaussures,<br />
 Ca fait deux cent jours que j’ai pas travaillé.<br />
-Ce matin, j’ai tiré trois voitures)<br />
-Et j’ai jeté les clés dans la cage d’escalier.<br />
+Ce matin, j’ai tiré trois voitures)* <br />
+__Et j’ai jeté les clés dans la cage d’escalier.__<br />
 
-4. Craches le feu, l’amour et dit ton nom !<br />
+4. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
-Craches les feu, l’amour et dit ton nom !<br />
-Qu’on l’entende avenue du dragon !<br />
+Craches les feu, l’amour et dis ton nom !<br />
+Qu’on l’entende avenue du dragon !__<br />
 
-5. (Moi c’est Ben, j’ai froid j’ai plus de gants,<br />
+5. *(Moi c’est Ben, j’ai froid j’ai plus de gants,<br />
 Et le marteau piqueur ça fait mal à mes dents !<br />
-Plus que j’peine et moins que j’ai d’argent,)<br />
-Alors je vais pisser dans la cage d’escalier !<br />
+Plus que j’peine et moins que j’ai d’argent,)* <br />
+__Alors je vais pisser dans la cage d’escalier !__ <br />
 
-6. (Moi c’est Sam et j’ai les doigts qui gèlent,<br />
+6. *(Moi c’est Sam et j’ai les doigts qui gèlent,<br />
 Ca fait huit cent jours que j’ai pas travaillé.<br />
-Ce matin, j’ai bouffé les poubelles)<br />
-Et j’ai tagué « ta gueule » dans la cage d’escalier.<br />
+Ce matin, j’ai bouffé les poubelles)* <br />
+__Et j’ai tagué « ta gueule » dans la cage d’escalier.__ <br />
 
-7. Craches le feu, l’amour et dit ton nom !<br />
+7. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
-Qu’on l’entende avenue du dragon !<br />
+Qu’on l’entende avenue du dragon !__ <br />
 
-8. (Moi, c’est Jeanne, viré de la Lyonnaise.<br />
+8. *(Moi, c’est Jeanne, viré de la Lyonnaise.<br />
 J’alignais des zéros sur des comptes truqués !<br />
-Mais j’ai jamais su monter les mayonnaises et)<br />
-Depuis je vais pointer dans la cage d’escalier !<br />
+Mais j’ai jamais su monter les mayonnaises et)* <br />
+__Depuis je vais pointer dans la cage d’escalier !__ <br />
 
-9. (Moi c’est Sam et j’ai les plombs qui pètent :<br />
+9. *(Moi c’est Sam et j’ai les plombs qui pètent :<br />
 A nous la monseigneur de monsieur le curé !<br />
-Quand c’est vide, tirez la chevillette !)<br />
-Pétez les bobinettes dans les cages d’escalier !<br />
+Quand c’est vide, tirez la chevillette !)* <br />
+__Pétez les bobinettes dans les cages d’escalier !__ <br />
 
-10. Craches le feu, l’amour et dit ton nom !<br />
+10. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
-Qu’on l’entende avenue du dragon !<br />
-<br />
-Paul et Ben et Jeanne; Sam : c’est nous !<br />
+Qu’on l’entende avenue du dragon !__ <br />
+
+11. Paul et Ben et Jeanne; Sam : c’est nous !<br />
 Paul et Ben et Jeanne, Sam : c’est nous !<br />
 
-11. (Scandé ou chanté) :<br />
+12. *(Scandé ou chanté :)* <br />
 Nous c’est tout, c’est rien pour la bourgeoise.<br />
 Mais quand ça pousse en bas, ça fait peur aux banquiers !<br />
 Y a des sous pour payer les ardoises<br />
 Et on est quatre vingt dans la cage d’escalier !<br />
 
-12. Quatre vingt c’est peu mais ça commence :<br />
+13. *(Scandé ou chanté :)* <br />
+Quatre vingt c’est peu mais ça commence :<br />
 Ca fait des millions qui vont pas travailler.<br />
 Droit devant ! Le nez dans vos finances !<br />
 On va tout faire sauter dans les cages d’escalier !<br />
 
-(doucement)<br />
-13. Craches le feu, l’amour et dit ton nom !<br />
+14. *(doucement :)* <br />
+__Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 (fort)<br />
-Qu'on l'entendE dans la rue Royaume<br />
-<br />
+Qu'on l'entendE dans la rue Royaume__ <br />
+
 [top](#chansonnier-jou) <br />
 
 ## A bas l'état policier
 
 ### Canon court 
 
-A baas l'étaat policier <br />
+__A baas l'étaat policier <br />
 <br />
 A bas l'état policier<br />
 <br />
 AA bas-l'ééétat _ poolii... (canon)<br />
 <br />
--cier.<br />
-<br />
+-cier.__ <br />
+
 ### Version complète 
 
 1. Puisque la provocation<br />
@@ -311,9 +318,9 @@ Bien casqués, bien boucliés<br />
 Bien grenadés, bien soldés<br />
 Nous nous sommes mis à crier<br />
 
-2. À bas l’État policier<br />
+2. __À bas l’État policier<br />
 À bas l’État policier<br />
-À bas l’État policier !<br />
+À bas l’État policier !__ <br />
 
 3. Parce que vous avez posté<br />
 Dans les cafés, dans les gares<br />
@@ -324,9 +331,9 @@ Au nom de je n’sais quelle loi<br />
 Et beaucoup d’autres encore<br />
 Nous avons crié plus fort<br />
 
-4. À bas l’État policier<br />
+4. __À bas l’État policier<br />
 À bas l’État policier<br />
-À bas l’État policier !<br />
+À bas l’État policier !__ <br />
 
 5. Mais ce n’était pas assez<br />
 Pour venir à bout de nous<br />
@@ -337,9 +344,9 @@ Face à ce dispositif<br />
 Nous crions avec colère<br />
 Continuez ! Ce sera la guerre<br />
 
-6. À bas l’État policier<br />
+6. __À bas l’État policier<br />
 À bas l’État policier<br />
-À bas l’État policier !<br />
+À bas l’État policier !__ <br />
 
 7. Vous êtes reconnaissables<br />
 Vous les flics du monde entier<br />
@@ -350,18 +357,16 @@ De Prague et de Mexico<br />
 Et de Berlin à Tokyo<br />
 Des millions à vous crier<br />
 
-8. À bas l’État policier<br />
+8. __À bas l’État policier<br />
 À bas l’État policier<br />
-À bas l’État policier !<br />
-<br />
+À bas l’État policier !__ <br />
+
 [top](#chansonnier-jou) <br />
 
 ## L'estaca 
 
-Le pieu.<br />
-<br />
-Vérifier (*) les paroles<br />
-
+*(note tmp : Vérifier (`*) les paroles)* <br />;
+ 
 [Aller à la version en catalan](#version-en-catalan)
 
 ### Version en français 
@@ -376,15 +381,14 @@ Au quel nous somme touxtes enchaînées<br />
 Tant qu'il sera planté comme ça <br />
 Nous n'aurons pas la liberté.<br />
 
-3. Mais si nous tirons toustes il tombera <br />
+3. __Mais si nous tirons toustes il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
-//<br />
 Si je tire fort il doit bouger <br />
 Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe tombe tombe <br />
-Et nous aurons la liberté ! <br />
+Et nous aurons la liberté !__ <br />
 
 4. Petit, ça fait déjà longtemps <br />
 Que je m'y écorche les mains <br />
@@ -396,17 +400,16 @@ La force vient à me manquer <br />
 Je me demande si un jour <br />
 Nous aurons bien la liberté.<br />
 
-6. Mais si nous tirons tous il tombera <br />
+6. __Mais si nous tirons tous il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
-//<br />
 Si je tire fort il doit bouger <br />
 Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe, tombe, tombe <br />
-Et nous aurons la liberté !<br />
+Et nous aurons la liberté !__ <br />
 
-7. Puis mon grand-père s'en est allé (*)<br />
+7. Puis mon grand-père s'en est allé (`*)<br />
 Un vent mauvais l'a emporté <br />
 Et je reste seul sous le proche <br />
 À regarder jouer d'autres gosses <br />
@@ -416,20 +419,19 @@ Où tant de mains se sont usées <br />
 Ils chantent des chansons d'espoir <br />
 Qui parlent de la liberté<br />
 
-9. Oh si nous tirons tous il tombera <br />
+9. __Oh si nous tirons tous il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
-//<br />
 Si je tire fort il doit bouger <br />
 Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe, tombe, tombe <br />
-Et nous aurons la liberté !<br />
+Et nous aurons la liberté !__ <br />
 
-10. Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
+10. __Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
-Segur que tomba, tomba, tomba (toumba)<br />
-_i’ens podrem aliberar. (poudrem)<br />
+Segur que tomba, tomba, to*(u)*mba <br />
+`_i’ens po*(u)*drem aliberar.__ <br />
 
 ### Version en catalan
 
@@ -445,15 +447,14 @@ A	on	estem	tots lligats	?<br />
 Si	no	podem*	desfer-ns-en<br />
 Mai	no	podrem* caminar	!<br />
 
-3. Si estirem tots, ella caurà<br />
+3. __Si estirem tots, ella caurà<br />
 I molt de temps no pot durar,<br />
 Segur que tomba, tomba, tomba<br />
 Ben corcada* deu ser ja.<br />
-//<br />
 Si tu l’estires fort per’qui<br />
 I jo l’estiro fort per’llà,<br />
 Segur que tomba, tomba, tomba
-I’ens podrem aliberar.<br />
+I’ens podrem aliberar.__<br />
 
 4. P’rò,	Siset,	fa	molt	temps	ja	:<br />
 Les	mans	se’m	van	escorxant*,<br />
@@ -465,89 +466,88 @@ P’rò	és	que,	Siset,	pesa	tant<br />
 Qu’a	cops	la	força	m’oblida.<br />
 Torna’m	a	dir	el	teu	cant	:<br />
 
-6. Si estirem tots, ella caurà<br />
+6. __Si estirem tots, ella caurà<br />
 I molt de temps no pot durar,<br />
 Segur que tomba, tomba, tomba<br />
 Ben corcada* deu ser ja.<br />
-//<br />
 Si tu l’estires fort per’qui<br />
 I jo l’estiro fort per’llà,<br />
 Segur que tomba, tomba, tomba
-I’ens podrem aliberar.<br />
+I’ens podrem aliberar.__ <br />
 
 7. L’avi	Siset	ja	no diu	res,<br />
 Mal	vent	que	l’emportà<br />
 Ell	qui	sap	cap	a	quin	indret<br />
-I	jo	sota el	portal*<br />
+I	jo	sota el	portal<br />
 
 8. I	mentre	passen	els	nous	vailets<br />
 Estiro	el	coll	per	cantar<br />
 El	darrer	cant d’en	Siset,<br />
 El	darrer	qu’em	va’ensenyar.<br />
 
-9. Si estirem tots, ella caurà<br />
+9. __Si estirem tots, ella caurà<br />
 I molt de temps no pot durar,<br />
 Segur que tomba, tomba, tomba<br />
 Ben corcada* deu ser ja.<br />
-//<br />
 Si tu l’estires fort per’qui<br />
 I jo l’estiro fort per’llà,<br />
 Segur que tomba, tomba, tomba
-I’ens podrem aliberar.<br />
+I’ens podrem aliberar.__ <br />
 
 10. Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Segur que tomba, tomba, tomba <br />
 I’ens podrem aliberar.<br />
-<br />
+
 [top](#chansonnier-jou) <br />
 
 ## Bella Ciao
 
-(lent)<br />
-1. Una mattina mi son svegliata<br />
-o bella ciao, bella ciao, bella ciao ciao ciao<br />
+1. *(lent :)* <br />
+Una mattina mi son svegliata<br />
+__o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 una mattina mi son svegliata<br />
 e ho trovato l'invasor<br />
 
 2. E fra gl'insetti e le zanzare<br />
-o bella ciao, bella ciao, bella ciao ciao ciao<br />
+__o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 e fra gl'insetti e le zanzare<br />
 un dur lavor ci tocca far.<br />
 
-(rapide)<br />
-3. Il capo'in piedi - col suo bastone<br />
-o bella ciao, bella ciao, bella ciao ciao ciao<br />
+3. *(rapide :)* <br />
+Il capo'in piedi - col suo bastone<br />
+__o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 il capo'in piedi col suo bastone<br />
 e noi curve a lavorar.<br />
 
 4. O partigiana - portami via<br />
-o bella ciao, bella ciao, bella ciao ciao ciao<br />
+__o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 o partigiana portami via<br />
 _ che mi sento di morir<br />
 
 5. Ed’i -o- muoio - perché son donna<br />
-o bella ciao, bella ciao, bella ciao, ciao, ciao<br />
+__o bella ciao, bella ciao, bella ciao, ciao, ciao__ <br />
 e so che muoio perché son donna<br />
 e non mi voglio rassegnar.<br />
 
-(lent)
-6. Mi seppellirai - lassù'in montagna<br />
-o bella ciao, bella ciao, bella ciao ciao ciao<br />
+6. *(lent :)* <br />
+Mi seppellirai - lassù'in montagna<br />
+__o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 mi seppellirai lassù'in montagna<br />
 _ sotto l'ombra d'un bel fior<br />
 
-(rapide)
-7. E quest'é'il fiore - dei partigiani<br />
-o bella ciao, bella ciao, bella ciao ciao ciao<br />
+
+7. *(rapide :)* <br /> 
+E quest'é'il fiore - dei partigiani<br />
+__o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 e quest'é'il fiore dei partigiani<br />
-_ morti per la libertà<br />
+`_morti per la libertà<br />
 
 8. Alle sorelle,alle compagne<br />
-o bella ciao, bella ciao,bella ciao, ciao, ciao<br />
+__o bella ciao, bella ciao,bella ciao, ciao, ciao__ <br />
 alle compagne, sorelle'e figlie<br />
 questa canzone porterò<br />
-<br />
+
 [top](#chansonnier-jou) <br />
 
 ## Canción sin miedo
