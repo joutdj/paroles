@@ -552,44 +552,47 @@ questa canzone porterò<br />
 
 ## Canción sin miedo
 
-1. Que tiemble el Estado, los cielos, las calles<br />
-Que tiemblen los jueces y los judiciales<br />
-Hoy a las mujeres nos quitan la calma<br />
-Nos sembraron miedo, nos crecieron alas<br />
+1. Aaaah-aaaah aaaah-aaaah<br />
+Aaaah-aaaah aaaah-aaah !<br />
 
-2. A cada minuto, de cada semana<br />
-Nos roban amigas, nos matan hermanas<br />
-Destrozan sus cuerpos, los desaparecen<br />
+2. ou ou ou ~~Que tiemble el Estado, los cielos, las calles~~<br />
+ou ou ou ~~Que tiemblen los jueces y los judiciales~~<br />
+ou ou ou ou ~~Hoy a las mujeres nos quitan la calma~~<br />
+ah-ah-ah Nos sembraron miedo ~~nos crecieron alas~~<br />
+aaaah ~~nos crecieron alas~~<br />
+
+3. ou ou ou ~~A cada minuto, de cada semana~~<br />
+ou ou ou ~~Nos roban amigas, nos matan hermanas~~<br />
+ou ou ou ~~Destrozan sus cuerpos, los desaparecen~~<br />
 No olvide sus nombres, por favor, señor presidente<br />
 
-3. Por todas las compas marchando en Reforma<br />
-Por todas las morras peleando en Sonora<br />
-Por las comandantas luchando por Chiapas<br />
-Por todas las madres buscando en Tijuana<br />
+4. ouuuu-ouuuu- ~~Por todas las compas marchando en Reforma~~<br />
+ouuuu-ouuuu ~~Por todas las morras peleando en Sonora~~<br />
+ou-ou-ou-ou- ~~Por las comandantas luchando por Chiapas~~<br />
+ouuuu-ou ~~Por todas las madres buscando en Tijuana~~<br />
 
-4. Cantamos sin miedo, pedimos justicia<br />
+5. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
 Que resuene fuerte "¡nos queremos vivas!"<br />
 Que caiga con fuerza el feminicida<br />
 
-5. Yo todo lo incendio, yo todo lo rompo<br />
+6. Yo todo lo incendio, yo todo lo rompo<br />
 Si un día algún fulano te apaga los ojos<br />
 Ya nada me calla, ya todo me sobra<br />
 Si tocan a una, respondemos todas<br />
 
-6. Soy Claudia, soy Esther y soy Teresa<br />
+7. Soy Claudia, soy Esther y soy Teresa<br />
 Soy Ingrid, soy Fabiola y soy Valeria<br />
 Soy la niña que subiste por la fuerza<br />
 Soy la madre que ahora llora por sus muertas<br />
 
-7. Y soy esta que te hará pagar las cuentas<br />
+8. Y soy esta que te hará pagar las cuentas<br />
+¡~~Justicia, justicia, justicia,~~ justicia!<br />
 
-8. ¡Justicia, justicia, justicia!<br />
-
-9. Por todas las compas marchando en Reforma<br />
-Por todas las morras peleando en Sonora<br />
-Por las comandantas luchando por Chiapas<br />
-Por todas las madres buscando en Tijuana<br />
+9. ouuuu-ouuuu- ~~Por todas las compas marchando en Reforma~~<br />
+ouuuu-ouuuu ~~Por todas las morras peleando en Sonora~~<br />
+ou-ou-ou-ou- ~~Por las comandantas luchando por Chiapas~~<br />
+ouuuu-ou ~~Por todas las madres buscando en Tijuana~~<br />
 
 10. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
@@ -601,8 +604,8 @@ Que caiga con fuerza el feminicida<br />
 Al sororo rugir del amor<br />
 Y retiemblen sus centros la tierra<br />
 Al sororo rugir del amor<br />
-<br />
-[top](#chansonnier-jou)    <br />
+
+[top](#chansonnier-jou) <br />
 
 ## Il galleone 
 
@@ -615,8 +618,8 @@ Miete per lenta fame.<br />
 
 3. Mai orizzonti limpidi<br />
 Schiude la nostra aurora<br />
-E sulla tolda squallida (sordide)<br />
-Urla la scolta ognora. (ñ)<br />
+E sulla tolda squallida<br />
+Urla la scolta ognora.<br />
 
 4. I nostri dì si involano<br />
 Fra fetide carene<br />
@@ -661,24 +664,24 @@ O libertà o morte!<br />
 12. hmmmmmmm<br />
 hmmmmmmm<br />
 
-[chuchoté]<br />
-13. Giuriam giuriam giustizia!<br />
+13. [chuchoté :]<br /> 
+Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
-<br />
-[top](#chansonnier-jou)    <br />
+
+[top](#chansonnier-jou) <br />
 
 ## Clémence en vacances 
 
 *(Chanson d'Anne Sylvestre)*<br />
 
-1. On l'a dit à la grand-mère<br />
-Qui l'a dit à son voisin<br />
+1. ~~On l'a dit à la grand-mère<br />
+Qui l'a dit à son voisin~~<br />
 __Le voisin à la bouchère__<br />
-La bouchère à son gamin<br />
+~~La bouchère à son gamin<br />
 Son gamin qui tête folle<br />
 N'a rien eu de plus urgent<br />
 Que de le dire à l'école<br />
-À son voisin Pierre-Jean<br />
+À son voisin Pierre-Jean~~<br />
 
 2. Clémence, Clémence<br />
 A pris des vacances<br />
@@ -687,14 +690,14 @@ Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-3. Ça sembla d'abord étrange<br />
-On s'interrogea un peu<br />
+3. ~~Ça sembla d'abord étrange<br />
+On s'interrogea un peu~~<br />
 __Sur ce qui parfois dérange__<br />
-La raison de certains vieux<br />
+~~La raison de certains vieux<br />
 Si quelque mauvaise chute<br />
 Avait pu l'handicaper<br />
 Ou encore une dispute<br />
-Avec ce brave Honoré<br />
+Avec ce brave Honoré~~<br />
 
 4. Clémence, Clémence<br />
 A pris des vacances<br />
@@ -703,14 +706,14 @@ Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-5. Puis on apprit par son gendre<br />
-Qu'il ne s'était rien passé<br />
+5. ~~Puis on apprit par son gendre<br />
+Qu'il ne s'était rien passé~~<br />
 __Mais simplement qu'à l'entendre__<br />
-Elle en avait fait assez<br />
+~~Elle en avait fait assez<br />
 Bien qu'ayant toutes ses jambes<br />
 Elle reste en son fauteuil<br />
 Un peu de malice flambe<br />
-Parfois au bord de son œil<br />
+Parfois au bord de son œil~~<br />
 
 6. Clémence, Clémence<br />
 A pris des vacances<br />
@@ -719,14 +722,14 @@ Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-7. Honoré, c'est bien dommage<br />
-Doit tout faire à la maison<br />
+7. ~~Honoré, c'est bien dommage<br />
+Doit tout faire à la maison~~<br />
 __La cuisine et le ménage__<br />
-Le linge et les commissions<br />
+~~Le linge et les commissions<br />
 Quand il essaie de lui dire<br />
 De coudre un bouton perdu<br />
 Elle répond dans un sourire<br />
-Va, j'ai bien assez cousu<br />
+Va, j'ai bien assez cousu~~<br />
 
 8. Clémence, Clémence<br />
 A pris des vacances<br />
@@ -735,14 +738,14 @@ Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-9. C'est la maîtresse d'école<br />
-Qui l'a dit au pharmacien<br />
+9. ~~C'est la maîtresse d'école<br />
+Qui l'a dit au pharmacien~~<br />
 __Clémence est devenue folle__<br />
-Paraît qu'elle ne fait plus rien<br />
+~~Paraît qu'elle ne fait plus rien<br />
 Mais selon l'apothicaire<br />
 Dans l'histoire, le plus fort<br />
 N'est pas qu'elle ne veuille rien faire<br />
-Mais n'en ait aucun remords<br />
+Mais n'en ait aucun remords~~<br />
 
 10. Clémence, Clémence<br />
 A pris des vacances<br />
@@ -751,14 +754,14 @@ Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-11. Je suis de bon voisinage<br />
-On me salue couramment<br />
+11. ~~Je suis de bon voisinage<br />
+On me salue couramment~~<br />
 __Loin de moi l'idée peu sage__<br />
-D'inquiéter les brave gens<br />
+~~D'inquiéter les brave gens<br />
 Mais les grand-mères commencent<br />
 De rire et parler tout bas<br />
 La maladie de Clémence<br />
-Pourrait bien s'étendre là<br />
+Pourrait bien s'étendre là~~<br />
 
 12. Toutes les Clémence<br />
 Prendraient des vacances<br />
@@ -774,67 +777,67 @@ Toutes les Clémence<br />
 Comme en enfance<br />
 Se reposeraient enfin<br />
 
-14. Choubidou bidou...
-<br />
+14. Choubidou bidou...<br />
+
 [top](#chansonnier-jou) <br />
 
 ## La Makhnovtchina 
 
 Lignes en gras : chanter 2x.<br />
 
-(S+A, lent, croches)<br />
-1. Makhnovtchina, Makhnovtchina, <br />
+1. *(S+A, lent, croches :)*<br />
+Makhnovtchina, Makhnovtchina, <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang. <br />
 
-(Tutti, rapide, croches pointées)<br />
-2. Par les monts et par les plaines, <br />
+2. *(Tutti, rapide, croches pointées :)*<br />
+Par les monts et par les plaines, <br />
 Dans la neige et dans le vent, <br />
 A travers toute l'Ukraine, <br />
 Se levaient nos partisans.<br />
 
-(Tutti, rapide, croches pointées)<br />
-3. ||| Au printemps, ||| les traités - de Léniiine<br />
+3. *(Tutti, rapide, croches pointées :)*<br />
+||| Au printemps, ||| les traités - de Léniiine<br />
 Ont livré l'Ukraine aux Allemands. <br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 
-(S+A, lent, croches)<br />
-4. Makhnovtchina, Makhnovtchina, <br />
+4. *(S+A, lent, croches :)*<br />
+Makhnovtchina, Makhnovtchina, <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
-(Tutti, rapide, croches pointées)<br />
-5. L'armée blanche de Dénikine<br />
+5. *(Tutti, rapide, croches pointées :)*<br />
+L'armée blanche de Dénikine<br />
 Est entrée en Ukraine en chantant, <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 
-(Tutti, rapide, croches pointées)<br />
-6. Makhnovstchina, Makhnovstchina,<br />
+6. *(Tutti, rapide, croches pointées :)*<br />
+Makhnovstchina, Makhnovstchina,<br />
 Armée noire de nos partisans,<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 
-(Tutti, rapide, croches pointées)<br />
-7. Makhnovtchina, Makhnovtchina, <br />
+7. *(Tutti, rapide, croches pointées :)*<br />
+Makhnovtchina, Makhnovtchina, <br />
 Armée noire de nos partisans, <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 
-(S+A, lent, croches)<br />
-8. Makhnovtchina, Makhnovtchina <br />
+8. *(S+A, lent, croches :)*<br />
+Makhnovtchina, Makhnovtchina <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
-(Tutti lent, croches, rallentando)<br />
-9. Ils sont noirs de notre peine, <br />
+9. *(Tutti lent, croches, rallentando :)*<br />
+Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
-<br />
-[top](#chansonnier-jou)    <br />
+
+[top](#chansonnier-jou) <br />
 
 ## La vie s'écoule 
 
@@ -842,58 +845,58 @@ Ils sont rouges de notre sang.<br />
 les jours défilent au pas de l'ennui.<br />
 Parti des rouges, parti des gris,<br />
 nos révolutions sont trahies.<br />
-Parti des rouges, parti des gris,<br />
-nos révolutions sont trahies...<br />
+*Parti des rouges, parti des gris,<br />
+nos révolutions sont trahies...*<br />
 
 2. Le travail tue, le travail paie,<br />
 le temps s'achète au supermarché<br />
 Le temps payé ne revient plus,<br />
 la jeunesse meurt de temps perdu.<br />
-Le temps payé ne revient plus,<br />
-la jeunesse meurt de temps perdu...<br />
+*Le temps payé ne revient plus,<br />
+la jeunesse meurt de temps perdu...*<br />
 
 3. Les yeux faits pour l'amour d'aimer,<br />
 sont le reflet d'un monde d'objets.<br />
 Sans rêve et sans réalité,<br />
 aux images nous sommes condamnés.<br />
-Sans rêve et sans réalité,<br />
-aux images nous sommes condamnés...<br />
+*Sans rêve et sans réalité,<br />
+aux images nous sommes condamnés...*<br />
 
 4. Les fusillés, les affamés<br />
 viennent vers nous du fond du passé.<br />
 Rien n'a changé, mais tout commence<br />
 et va mûrir dans la violence.<br />
-Rien n'a changé, mais tout commence<br />
-et va mûrir dans la violence...<br />
+*Rien n'a changé, mais tout commence<br />
+et va mûrir dans la violence...*<br />
 
 5. Brûlez repaires de curés,<br />
 nids de marchands et de policiers.<br />
 Au vent qui sème la tempête,<br />
 se récoltent les jours de fête.<br />
-Au vent qui sème la tempête,<br />
-se récoltent les jours de fête...<br />
+*Au vent qui sème la tempête,<br />
+se récoltent les jours de fête...*<br />
 
 6. Les fusils sur nous dirigés,<br />
 contre les chefs vont se retourner.<br />
 Plus de dirigeants,_ plus d'État,<br />
 pour profiter de nos combats.<br />
-Plus de dirigeants,_ plus d'État,<br />
+*Plus de dirigeants,_ plus d'État,<br />
 pour profiter de nos combats...<br />
 Plus de dirigeants,_ plus d'État,<br />
-pour profiter de nos combats...<br />
-<br />
-[top](#chansonnier-jou)    <br />
+pour profiter de nos combats...*<br />
+
+[top](#chansonnier-jou) <br />
 
 ## La rue des Lilas
 
-Texte et musique : Sylvain Girault<br />
+*(Texte et musique : Sylvain Girault)*<br />
 
 1. oh oh oh <br />
 oh oh<br />
 oh <br />
 oh<br />
 oh<br />
-x2<br />
+*(x2*)<br />
 
 2. ((Ce soir je meurs à la guerre<br />
 Aujourd’hui pour moi sonne le glas<br />
