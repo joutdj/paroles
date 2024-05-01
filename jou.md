@@ -18,76 +18,77 @@ Version brouillon de jou (soprano).<br />
 [La rue des Lilas](#la-rue-des-lilas)<br />
 [Je suis fille de marin](#je-suis-fille-de-marin)<br />
 
-[top](#chansonnier-jou)<br />
+[top](#chansonnier-jou) <br />
 
 ## Allez les gars
 
-SAT : Ouuuuuuuuuuu  (2 notes)<br />
+1. SAT : Ouuuuuuuuuuu  (2 notes)<br />
 B : (Oh, je n’oublierai pas devant nous, les casqués <br />
 Les fusils lance-grenades et les grands boucliers <br />
 Tout ça pour nous forcer quand nous n’avions pour nous <br />
-Que nos poings, le bon droit, et puis quelques cailloux. <br />
-<br />
-D’abord on s’avançait en frappant dans les mains <br />
+Que nos poings, le bon droit, et puis quelques cailloux.) <br />
+
+2. SAT : Ouuuuuuuuuuu  (2 notes)<br />
+(B : D’abord on s’avançait en frappant dans les mains <br />
 Y en avait parmi eux des vraies têtes de gamins <br />
 Les regards s’affrontaient, face à face, de tout près <br />
 Eux devaient la boucler, nous pas, et on chantait: )<br />
-<br />
-Tutti : Allez les gars combien on vous paye <br />
+
+3. Tutti : Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
-<br />
-Combien ça vaut, quel est le prix v<br />
+
+4. Combien ça vaut, quel est le prix v<br />
 De te faire détester ainsi v<br />
 Par tout ces gens qu’tu connais pas <br />
 Qui sans ça n’auraient rien contr’toi <br />
-<br />
-Tu sais nous on n’est pas méchant-e-s ^<br />
+
+5. Tu sais nous on n’est pas méchant-e-s ^<br />
 On ne grenade pas les enfants ^<br />
 On nous attaque, on se défend <br />
 Désolé si c’est toi qui prends <br />
-<br />
-Allez les gars combien on vous paye<br />
+
+6. Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
-<br />
-Pense à ceux pour qui tu travailles v<br />
+
+7.Pense à ceux pour qui tu travailles v<br />
 Qu’on voit jamais dans la bataille v<br />
 Pendant qu’tu encaisses des cailloux <br />
 Les actionnaires ramassent les sous <br />
-<br />
-Avoue franchement, c’est quand même pas ^<br />
+
+8. Avoue franchement, c’est quand même pas ^<br />
 La vie qu’t’avais rêvé pour toi, ^<br />
 Cogner des gens pour faire tes heures <br />
 T’aurais mieux fait d’rester chômeur.<br />
-<br />
-Allez les gars combien on vous paye<br />
+
+9. Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
-<br />
-Je ne me fais guère d’illusions v<br />
+
+10. Je ne me fais guère d’illusions v<br />
 Sur la portée de cette chanson v<br />
 Je sais qu’tu vas pas hésiter <br />
 Dans deux minutes à m’castagner <br />
-<br />
-Je sais qu’tu vas pas hésiter ^<br />
+
+11. Je sais qu’tu vas pas hésiter ^<br />
 T’es bien dressé, baratiné, ^<br />
 Mais au moins j’aurai essayé <br />
 Avant les bosses de te causer.<br />
-<br />
-Allez les gars combien on vous paye<br />
+
+12. Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 <br />
-[top](#chansonnier-jou)    <br />
-<br />
+[top](#chansonnier-jou) <br />
+
 ## Here's to you 
-<br />
-Here's to you Nicola and Bart<br />
+
+1. Here's to you Nicola and Bart<br />
 Rest forever here in our hearts<br />
 The last and final moment is yours<br />
 That agony is your triumph<br />
@@ -96,7 +97,7 @@ That agony is your triumph<br />
 <br />
 Puis 2x lalala<br />
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
 
 ## La révolte 
 
@@ -104,73 +105,71 @@ Puis 2x lalala<br />
 De tous les temps et de toutes les guerres ;<br />
 Toujours nous fûmes exploité-e-s<br />
 Par les tyrans et leurs cerbères.<br />
-<br />
-Mais nous ne voulons plus fléchir<br />
+
+2. Mais nous ne voulons plus fléchir<br />
 Sous le joug qui courba nos têtes,<br />
 Car nous voulons nous affranchir<br />
 De ce qui cause nos misères.<br />
-<br />
-Église, parlement,<br />
+
+3. Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
 Patrons et gouvernants,<br />
 Débarrassons-nous du capitalisme<br />
-<br />
-Pressant est notre appel,<br />
+
+4. Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
 Nous réaliserons l'Idéal libertaire !<br />
-<br />
-2 Ouvriers ou bien paysans,<br />
+5. Ouvriers ou bien paysans,<br />
 Travailleuses de la terre ou de l'usine,<br />
 Nous sommes, dès nos jeunes ans,<br />
 Réduit-e-s au labeur qui nous mine.<br />
-<br />
-D'un bout du monde à l'autre bout,<br />
+
+6. D'un bout du monde à l'autre bout,<br />
 C'est nous qui créons l'abondance;<br />
 C'est nous tous qui produisons tout<br />
 Et nous vivons dans l'indigence.<br />
-<br />
-Église, parlement,<br />
+
+7. Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
 Patrons et gouvernants,<br />
 Débarrassons-nous du capitalisme<br />
-<br />
-Pressant est notre appel,<br />
+
+8. Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
 Nous réaliserons l'Idéal libertaire !<br />
-<br />
-3 L'État nous écrase d'impôts<br />
+9. L'État nous écrase d'impôts<br />
 Il faut payer ses juges et sa flicaille<br />
 Et si nous protestons trop haut<br />
 Au nom de l'ordre on nous mitraille<br />
-<br />
-Les maître(u)s ont changé cent fois<br />
+
+10. Les maître(u)s ont changé cent fois<br />
 C'est le jeu de la démocratie<br />
 Quels que soient ceux qui font les lois<br />
 C'est toujours la même(uh) supercherie.<br />
-<br />
-Église, parlement,<br />
+
+11. Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
 Patrons et gouvernants,<br />
 Débarrassons-nous du capitalisme<br />
-<br />
-Pressant est notre appel,<br />
+
+12. Pressant est notre appel,<br />
 Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
 Nous réaliserons l'Idéal libertaire !<br />
-<br />
-4 Pour défendre les intérêts<br />
+
+13. Pour défendre les intérêts<br />
 Des flibustiers de la grande industrie<br />
 On nous ordonne d'être prêt-e-s<br />
 A mourir pour notre patrie<br />
-<br />
-Nous ne possédons rien de rien<br />
+
+14. Nous ne possédons rien de rien<br />
 Nous avons horreur de la guerre<br />
 Voleurs, défendez votre bien<br />
 Ce n'est pas à nous de le faire.<br />
-<br />
-Église, parlement,<br />
+
+15. Église, parlement,<br />
 Patriarcat, Etat, militarisme...<br />
 Patrons et gouvernants,<br />
 Débarrassons-nous du capitalisme<br />
@@ -179,7 +178,7 @@ Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
 Nous réaliserons l'Idéal libertaire !<br />
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
 
 ## The digger's song
 
@@ -187,7 +186,7 @@ Nous réaliserons l'Idéal libertaire !<br />
 The wasteland to maintain sing cavaliers by name<br />
 Your digging does maintain and persons all_ defame<br />
 Stand up now, stand up now<br />
-<br />
+
 2. Your houses they pull down, stand up now... x2<br />
 Your houses they pull down to fright your men in town<br />
 But the gentry must come down and the poor shall wear_ the crown<br />
@@ -207,85 +206,87 @@ Stand up now stand up now<br />
 To rescue they advise, such fury they_ devise, <br />
 The devil in them lies and hath blinded both their eyes<br />
 Stand up now, stand up now<br />
-<br />
-[top](#chansonnier-jou)    <br />
+
+[top](#chansonnier-jou) <br />
 
 ## Avenue du Dragon
 
 Paroles et musique de Christian Paccoud<br />
 <br />
-Craches le feu, l’amour et dit ton nom !<br />
+
+1. Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !<br />
 <br />
-(Moi, c’est Paul et j’ai pas de chaussettes,<br />
+
+2. (Moi, c’est Paul et j’ai pas de chaussettes,<br />
 Ca fait mal aux pieds quand je vais travailler.<br />
 J’ai trois gosses et six loyers de dettes)<br />
 Et je vais coucher dans la cage d’escalier.<br />
-<br />
-(Moi, c’est Sam et j’ai pas de chaussures,<br />
+
+3. (Moi, c’est Sam et j’ai pas de chaussures,<br />
 Ca fait deux cent jours que j’ai pas travaillé.<br />
 Ce matin, j’ai tiré trois voitures)<br />
 Et j’ai jeté les clés dans la cage d’escalier.<br />
-<br />
-Craches le feu, l’amour et dit ton nom !<br />
+
+4. Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !<br />
-<br />
-(Moi c’est Ben, j’ai froid j’ai plus de gants,<br />
+
+5. (Moi c’est Ben, j’ai froid j’ai plus de gants,<br />
 Et le marteau piqueur ça fait mal à mes dents !<br />
 Plus que j’peine et moins que j’ai d’argent,)<br />
 Alors je vais pisser dans la cage d’escalier !<br />
-<br />
-(Moi c’est Sam et j’ai les doigts qui gèlent,<br />
+
+6. (Moi c’est Sam et j’ai les doigts qui gèlent,<br />
 Ca fait huit cent jours que j’ai pas travaillé.<br />
 Ce matin, j’ai bouffé les poubelles)<br />
 Et j’ai tagué « ta gueule » dans la cage d’escalier.<br />
-<br />
-Craches le feu, l’amour et dit ton nom !<br />
+
+7. Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !<br />
-<br />
-(Moi, c’est Jeanne, viré de la Lyonnaise.<br />
+
+8. (Moi, c’est Jeanne, viré de la Lyonnaise.<br />
 J’alignais des zéros sur des comptes truqués !<br />
 Mais j’ai jamais su monter les mayonnaises et)<br />
 Depuis je vais pointer dans la cage d’escalier !<br />
-<br />
-(Moi c’est Sam et j’ai les plombs qui pètent :<br />
+
+9. (Moi c’est Sam et j’ai les plombs qui pètent :<br />
 A nous la monseigneur de monsieur le curé !<br />
 Quand c’est vide, tirez la chevillette !)<br />
 Pétez les bobinettes dans les cages d’escalier !<br />
-<br />
-Craches le feu, l’amour et dit ton nom !<br />
+
+10. Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !<br />
 <br />
 Paul et Ben et Jeanne; Sam : c’est nous !<br />
 Paul et Ben et Jeanne, Sam : c’est nous !<br />
-<br />
-(Scandé ou chanté) :<br />
+
+11. (Scandé ou chanté) :<br />
 Nous c’est tout, c’est rien pour la bourgeoise.<br />
 Mais quand ça pousse en bas, ça fait peur aux banquiers !<br />
 Y a des sous pour payer les ardoises<br />
 Et on est quatre vingt dans la cage d’escalier !<br />
 
-Quatre vingt c’est peu mais ça commence :<br />
+12. Quatre vingt c’est peu mais ça commence :<br />
 Ca fait des millions qui vont pas travailler.<br />
 Droit devant ! Le nez dans vos finances !<br />
 On va tout faire sauter dans les cages d’escalier !<br />
 
 (doucement)<br />
-Craches le feu, l’amour et dit ton nom !<br />
+13. Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 (fort)<br />
 Qu'on l'entendE dans la rue Royaume<br />
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
 
 ## A bas l'état policier
 
@@ -301,7 +302,7 @@ AA bas-l'ééétat _ poolii... (canon)<br />
 <br />
 ### Version complète 
 
-Puisque la provocation<br />
+1. Puisque la provocation<br />
 Celle qu’on a pas dénoncée<br />
 Ce fut de nous envoyer<br />
 En réponse à nos questions<br />
@@ -309,10 +310,12 @@ Vos hommes bien lunettés<br />
 Bien casqués, bien boucliés<br />
 Bien grenadés, bien soldés<br />
 Nous nous sommes mis à crier<br />
-À bas l’État policier<br />
+
+2. À bas l’État policier<br />
 À bas l’État policier<br />
 À bas l’État policier !<br />
-Parce que vous avez posté<br />
+
+3. Parce que vous avez posté<br />
 Dans les cafés, dans les gares<br />
 Vos hommes aux allures bizarres<br />
 Pour ficher, pour arrêter<br />
@@ -320,8 +323,12 @@ Les grévistes, les parias<br />
 Au nom de je n’sais quelle loi<br />
 Et beaucoup d’autres encore<br />
 Nous avons crié plus fort<br />
-À bas l’État policier (ter)<br />
-Mais ce n’était pas assez<br />
+
+4. À bas l’État policier<br />
+À bas l’État policier<br />
+À bas l’État policier !<br />
+
+5. Mais ce n’était pas assez<br />
 Pour venir à bout de nous<br />
 Dans les facs à la rentrée<br />
 Vous frappez un nouveau coup<br />
@@ -329,8 +336,12 @@ Face aux barbouzes, aux sportifs<br />
 Face à ce dispositif<br />
 Nous crions avec colère<br />
 Continuez ! Ce sera la guerre<br />
-À bas l’État policier (ter)<br />
-Vous êtes reconnaissables<br />
+
+6. À bas l’État policier<br />
+À bas l’État policier<br />
+À bas l’État policier !<br />
+
+7. Vous êtes reconnaissables<br />
 Vous les flics du monde entier<br />
 Les mêmes imperméables<br />
 La même mentalité<br />
@@ -338,9 +349,12 @@ Mais nous sommes de Paris<br />
 De Prague et de Mexico<br />
 Et de Berlin à Tokyo<br />
 Des millions à vous crier<br />
-À bas l’État policier (ter)<br />
+
+8. À bas l’État policier<br />
+À bas l’État policier<br />
+À bas l’État policier !<br />
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
 
 ## L'estaca 
 
@@ -348,134 +362,145 @@ Le pieu.<br />
 <br />
 Vérifier (*) les paroles<br />
 
-[Couplet 1]
+[Aller à la version en catalan](#version-en-catalan)
 
-Du temps où je n'étais qu'un gosse <br />
+### Version en français 
+
+1. Du temps où je n'étais qu'un gosse <br />
 Mon grand-père me disait souvent <br />
 Assi à l'ombre de son porche <br />
 En regardant passer le vent: <br />
-<br />
-Petit, vois-tu ce pieu de bois <br />
+
+2. Petit, vois-tu ce pieu de bois <br />
 Au quel nous somme touxtes enchaînées<br />
 Tant qu'il sera planté comme ça <br />
 Nous n'aurons pas la liberté.<br />
-<br />
-[Refrain]
-<br />
-Mais si nous tirons toustes il tombera <br />
+
+3. Mais si nous tirons toustes il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
-<br />
+//<br />
 Si je tire fort il doit bouger <br />
 Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe tombe tombe <br />
 Et nous aurons la liberté ! <br />
 
-[Couplet 2]
-
-Petit, ça fait déjà longtemps <br />
+4. Petit, ça fait déjà longtemps <br />
 Que je m'y écorche les mains <br />
 Et je me dis de temps en temps <br />
 Que je me suis battu pour rien <br />
 
-Il est toujours si grand, si lourd <br />
+5. Il est toujours si grand, si lourd <br />
 La force vient à me manquer <br />
 Je me demande si un jour <br />
 Nous aurons bien la liberté.<br />
 
-[Refrain]
-
-Mais si nous tirons tous il tombera <br />
+6. Mais si nous tirons tous il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
-
+//<br />
 Si je tire fort il doit bouger <br />
 Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe, tombe, tombe <br />
 Et nous aurons la liberté !<br />
 
-[Couplet 3]
-
-Puis mon grand-père s'en est allé (*)<br />
+7. Puis mon grand-père s'en est allé (*)<br />
 Un vent mauvais l'a emporté <br />
 Et je reste seul sous le proche <br />
 À regarder jouer d'autres gosses <br />
 
-Dansant autour du vieux pieu noir <br />
+8. Dansant autour du vieux pieu noir <br />
 Où tant de mains se sont usées <br />
 Ils chantent des chansons d'espoir <br />
 Qui parlent de la liberté<br />
 
-[Refrain]
-
-Oh si nous tirons tous il tombera <br />
+9. Oh si nous tirons tous il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
-
+//<br />
 Si je tire fort il doit bouger <br />
 Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe, tombe, tombe <br />
 Et nous aurons la liberté !<br />
 
-[Refrain	+	Final]
-
-Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
+10. Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Segur que tomba, tomba, tomba (toumba)<br />
 _i’ens podrem aliberar. (poudrem)<br />
 
+### Version en catalan
 
+[Aller à la version en français](#version-en-francais)
 
-________Catalan________
-
-L’avi	Siset	em	parlava<br />
+1. L’avi	Siset	em	parlava<br />
 De	bon	matí al	portal*<br />
 Mentre	el	sol	esperàvem<br />
 I’els	carros	vèiem	passar.<br />
-Siset,	que	no	veus	l’estaca<br />
+
+2. Siset,	que	no	veus	l’estaca<br />
 A	on	estem	tots lligats	?<br />
 Si	no	podem*	desfer-ns-en<br />
 Mai	no	podrem* caminar	!<br />
 
-Si estirem tots, ella caurà<br />
+3. Si estirem tots, ella caurà<br />
 I molt de temps no pot durar,<br />
 Segur que tomba, tomba, tomba<br />
 Ben corcada* deu ser ja.<br />
-
+//<br />
 Si tu l’estires fort per’qui<br />
 I jo l’estiro fort per’llà,<br />
 Segur que tomba, tomba, tomba
 I’ens podrem aliberar.<br />
 
-P’rò,	Siset,	fa	molt	temps	ja	:<br />
+4. P’rò,	Siset,	fa	molt	temps	ja	:<br />
 Les	mans	se’m	van	escorxant*,<br />
 I	quan	la	força	se	me’n	va<br />
 Ella	és	més	ampla	i	més	gran.<br />
-Ben	cert	sé	qu’està	podrida*<br />
+
+5. Ben	cert	sé	qu’està	podrida*<br />
 P’rò	és	que,	Siset,	pesa	tant<br />
 Qu’a	cops	la	força	m’oblida.<br />
 Torna’m	a	dir	el	teu	cant	:<br />
-<br />
-Refrain<br />
-L’avi	Siset	ja	no diu	res,<br />
+
+6. Si estirem tots, ella caurà<br />
+I molt de temps no pot durar,<br />
+Segur que tomba, tomba, tomba<br />
+Ben corcada* deu ser ja.<br />
+//<br />
+Si tu l’estires fort per’qui<br />
+I jo l’estiro fort per’llà,<br />
+Segur que tomba, tomba, tomba
+I’ens podrem aliberar.<br />
+
+7. L’avi	Siset	ja	no diu	res,<br />
 Mal	vent	que	l’emportà<br />
 Ell	qui	sap	cap	a	quin	indret<br />
 I	jo	sota el	portal*<br />
-I	mentre	passen	els	nous	vailets<br />
+
+8. I	mentre	passen	els	nous	vailets<br />
 Estiro	el	coll	per	cantar<br />
 El	darrer	cant d’en	Siset,<br />
 El	darrer	qu’em	va’ensenyar.<br />
-<br />
-Refrain	+	Final <br />
-Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
+
+9. Si estirem tots, ella caurà<br />
+I molt de temps no pot durar,<br />
+Segur que tomba, tomba, tomba<br />
+Ben corcada* deu ser ja.<br />
+//<br />
+Si tu l’estires fort per’qui<br />
+I jo l’estiro fort per’llà,<br />
+Segur que tomba, tomba, tomba
+I’ens podrem aliberar.<br />
+
+10. Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Segur que tomba, tomba, tomba <br />
 I’ens podrem aliberar.<br />
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
 
 ## Bella Ciao
 
@@ -523,56 +548,56 @@ o bella ciao, bella ciao,bella ciao, ciao, ciao<br />
 alle compagne, sorelle'e figlie<br />
 questa canzone porterò<br />
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
 
 ## Canción sin miedo
 
-Que tiemble el Estado, los cielos, las calles<br />
+1. Que tiemble el Estado, los cielos, las calles<br />
 Que tiemblen los jueces y los judiciales<br />
 Hoy a las mujeres nos quitan la calma<br />
 Nos sembraron miedo, nos crecieron alas<br />
 
-A cada minuto, de cada semana<br />
+2. A cada minuto, de cada semana<br />
 Nos roban amigas, nos matan hermanas<br />
 Destrozan sus cuerpos, los desaparecen<br />
 No olvide sus nombres, por favor, señor presidente<br />
 
-Por todas las compas marchando en Reforma<br />
+3. Por todas las compas marchando en Reforma<br />
 Por todas las morras peleando en Sonora<br />
 Por las comandantas luchando por Chiapas<br />
 Por todas las madres buscando en Tijuana<br />
 
-Cantamos sin miedo, pedimos justicia<br />
+4. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
 Que resuene fuerte "¡nos queremos vivas!"<br />
 Que caiga con fuerza el feminicida<br />
 
-Yo todo lo incendio, yo todo lo rompo<br />
+5. Yo todo lo incendio, yo todo lo rompo<br />
 Si un día algún fulano te apaga los ojos<br />
 Ya nada me calla, ya todo me sobra<br />
 Si tocan a una, respondemos todas<br />
 
-Soy Claudia, soy Esther y soy Teresa<br />
+6. Soy Claudia, soy Esther y soy Teresa<br />
 Soy Ingrid, soy Fabiola y soy Valeria<br />
 Soy la niña que subiste por la fuerza<br />
 Soy la madre que ahora llora por sus muertas<br />
 
-Y soy esta que te hará pagar las cuentas<br />
+7. Y soy esta que te hará pagar las cuentas<br />
 
-¡Justicia, justicia, justicia!<br />
+8. ¡Justicia, justicia, justicia!<br />
 
-Por todas las compas marchando en Reforma<br />
+9. Por todas las compas marchando en Reforma<br />
 Por todas las morras peleando en Sonora<br />
 Por las comandantas luchando por Chiapas<br />
 Por todas las madres buscando en Tijuana<br />
 
-Cantamos sin miedo, pedimos justicia<br />
+10. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
 Que resuene fuerte "¡nos queremos vivas!"<br />
 Que caiga con fuerza el feminicida<br />
 Que caiga con fuerza el feminicida<br />
 
-Y retiemblen sus centros la tierra<br />
+11. Y retiemblen sus centros la tierra<br />
 Al sororo rugir del amor<br />
 Y retiemblen sus centros la tierra<br />
 Al sororo rugir del amor<br />
@@ -581,161 +606,181 @@ Al sororo rugir del amor<br />
 
 ## Il galleone 
 
-(# = levées)
-hmmmmmmm<br />
-<br />
-Siamo la ciurma anemica<br />
+1. hmmmmmmm<br />
+
+2. Siamo la ciurma anemica<br />
 D'una galera infame<br />
 Su cui ratta la morte<br />
 Miete per lenta fame.<br />
-<br />
-Mai orizzonti limpidi<br />
+
+3. Mai orizzonti limpidi<br />
 Schiude la nostra aurora<br />
 E sulla tolda squallida (sordide)<br />
 Urla la scolta ognora. (ñ)<br />
-<br />
-I nostri dì si involano<br />
+
+4. I nostri dì si involano<br />
 Fra fetide carene<br />
 Siam magri smunti schiavi<br />
 Stretti in ferro catene<br />
-<br />
-Sorge sul mar la luna<br />
+
+5. Sorge sul mar la luna<br />
 Ruotan le stelle in cielo<br />
 Ma sulle nostre luci<br />
 Steso-è un fu-ne-reo velo.<br />
-<br />
-Torme di schiavi adusti<br />
+
+6. Torme di schiavi adusti<br />
 Chini a gemer sul remo<br />
 Spezziam queste carene<br />
-#'O chini a remar _ morremo!<br />
-<br />
-Cos'è gementi schiavi<br />
+'O chini a remar _ morremo!<br />
+
+7. Cos'è gementi schiavi<br />
 Questo remar remare?<br />
 Meglio morir tra i flutti<br />
 Sul biancheggiar del mare.<br />
-<br />
-Remiam finché la nave<br />
+
+8. Remiam finché la nave<br />
 Si schianti sui frangenti<br />
 Alte le rossonere<br />
 Fra il sibilar dei venti!<br />
-<br />
-E sia pietosa coltrice<br />
+
+9. E sia pietosa coltrice<br />
 L'onda spumosa e ria<br />
 #'Ma sorga un dì sui martiri<br />
 Il sol dell'anarchia.<br />
-<br />
-Su schiavi all'armi all'armi!<br />
+
+10. Su schiavi all'armi all'armi!<br />
 L'onda gorgoglia e sale<br />
 Tuoni baleni e fulmini<br />
 Sul galeon fatale.<br />
 
-Su schiavi all'armi all'armi!<br />
+11. Su schiavi all'armi all'armi!<br />
 Pugnam (ñ) col braccio forte!<br />
 Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
 
-hmmmmmmm<br />
+12. hmmmmmmm<br />
 hmmmmmmm<br />
 
 [chuchoté]<br />
-Giuriam giuriam giustizia!<br />
+13. Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
 <br />
 [top](#chansonnier-jou)    <br />
 
 ## Clémence en vacances 
 
-Anne Sylvestre<br />
+*(Chanson d'Anne Sylvestre)*<br />
 
-On l'a dit à la grand-mère<br />
+1. On l'a dit à la grand-mère<br />
 Qui l'a dit à son voisin<br />
-Le voisin à la bouchère<br />
+__Le voisin à la bouchère__<br />
 La bouchère à son gamin<br />
 Son gamin qui tête folle<br />
 N'a rien eu de plus urgent<br />
 Que de le dire à l'école<br />
 À son voisin Pierre-Jean<br />
 
-Clémence, Clémence<br />
+2. Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
 Clémence va bien<br />
 
-Ça sembla d'abord étrange<br />
+3. Ça sembla d'abord étrange<br />
 On s'interrogea un peu<br />
-Sur ce qui parfois dérange<br />
+__Sur ce qui parfois dérange__<br />
 La raison de certains vieux<br />
 Si quelque mauvaise chute<br />
 Avait pu l'handicaper<br />
 Ou encore une dispute<br />
 Avec ce brave Honoré<br />
 
-Clémence, Clémence...<br />
+4. Clémence, Clémence<br />
+A pris des vacances<br />
+Clémence ne fait plus rien<br />
+Clémence, Clémence<br />
+Est comme en enfance<br />
+Clémence va bien<br />
 
-Puis on apprit par son gendre<br />
+5. Puis on apprit par son gendre<br />
 Qu'il ne s'était rien passé<br />
-Mais simplement qu'à l'entendre<br />
+__Mais simplement qu'à l'entendre__<br />
 Elle en avait fait assez<br />
 Bien qu'ayant toutes ses jambes<br />
 Elle reste en son fauteuil<br />
 Un peu de malice flambe<br />
 Parfois au bord de son œil<br />
 
-Clémence, Clémence...<br />
+6. Clémence, Clémence<br />
+A pris des vacances<br />
+Clémence ne fait plus rien<br />
+Clémence, Clémence<br />
+Est comme en enfance<br />
+Clémence va bien<br />
 
-Honoré, c'est bien dommage<br />
+7. Honoré, c'est bien dommage<br />
 Doit tout faire à la maison<br />
-La cuisine et le ménage<br />
+__La cuisine et le ménage__<br />
 Le linge et les commissions<br />
 Quand il essaie de lui dire<br />
 De coudre un bouton perdu<br />
 Elle répond dans un sourire<br />
 Va, j'ai bien assez cousu<br />
 
-Clémence, Clémence...<br />
+8. Clémence, Clémence<br />
+A pris des vacances<br />
+Clémence ne fait plus rien<br />
+Clémence, Clémence<br />
+Est comme en enfance<br />
+Clémence va bien<br />
 
-C'est la maîtresse d'école<br />
+9. C'est la maîtresse d'école<br />
 Qui l'a dit au pharmacien<br />
-Clémence est devenue folle<br />
+__Clémence est devenue folle__<br />
 Paraît qu'elle ne fait plus rien<br />
 Mais selon l'apothicaire<br />
 Dans l'histoire, le plus fort<br />
 N'est pas qu'elle ne veuille rien faire<br />
 Mais n'en ait aucun remords<br />
 
-Clémence, Clémence...<br />
+10. Clémence, Clémence<br />
+A pris des vacances<br />
+Clémence ne fait plus rien<br />
+Clémence, Clémence<br />
+Est comme en enfance<br />
+Clémence va bien<br />
 
-Je suis de bon voisinage<br />
+11. Je suis de bon voisinage<br />
 On me salue couramment<br />
-Loin de moi l'idée peu sage<br />
+__Loin de moi l'idée peu sage__<br />
 D'inquiéter les brave gens<br />
 Mais les grand-mères commencent<br />
 De rire et parler tout bas<br />
 La maladie de Clémence<br />
 Pourrait bien s'étendre là<br />
 
-Toutes les Clémence<br />
+12. Toutes les Clémence<br />
 Prendraient des vacances<br />
 Elles ne feraient plus rien<br />
 Toutes les Clémence<br />
 Comme en enfance<br />
 Elles seraient bien<br />
 
-Toutes les Clémence<br />
+13. Toutes les Clémence<br />
 Prendraient des vacances<br />
 Elles ne feraient plus rien<br />
 Toutes les Clémence<br />
 Comme en enfance<br />
 Se reposeraient enfin<br />
+
+14. Choubidou bidou...
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
 
 ## La Makhnovtchina 
 
 Lignes en gras : chanter 2x.<br />
-
 
 (S+A, lent, croches)<br />
 1. Makhnovtchina, Makhnovtchina, <br />
@@ -843,89 +888,89 @@ pour profiter de nos combats...<br />
 
 Texte et musique : Sylvain Girault<br />
 
-oh oh oh <br />
+1. oh oh oh <br />
 oh oh<br />
 oh <br />
 oh<br />
 oh<br />
 x2<br />
 
-((Ce soir je meurs à la guerre<br />
+2. ((Ce soir je meurs à la guerre<br />
 Aujourd’hui pour moi sonne le glas<br />
 Mon visage est blanc et mon sang coule à flot<br />
 Sur le trottoir de la rue des Lilas<br />
 
-Ce soir je meurs sous vos bombes<br />
+3. Ce soir je meurs sous vos bombes<br />
 Pourtant je n’ai rien fait pour ça<br />
 Je ne suis qu’un simple flâneur dans la ville<br />
 Sur le trottoir de la rue des Lilas))<br />
 
-Je vous le dis, je vous le dis, je vous le dis<br />
+4. Je vous le dis, je vous le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
 Je m’éteins dans la rue des Lilas<br />
 
-Plus jamais revoir la dune<br />
+5. Plus jamais revoir la dune<br />
 Au matin quand s’effacent mes pas<br />
 Jamais plus les cimes et la neige éternelle<br />
 #'Et l’oiseau bleu brillant de mille éclats<br />
 
-Plus jamais revoir la lune<br />
+6. Plus jamais revoir la lune<br />
 Dans la nuit qui éclaire mes pas<br />
 Jamais plus la mer, les étoiles, les forets<br />
 #'Et ce lac bleu perdu au fond des bois<br />
 
-Je vous le dis, je vous le dis, je vous le dis<br />
+7. Je vous le dis, je vous le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
 Je m’éteins dans la rue des Lilas<br />
 
-J’aimerais tant revoir mes frères<br />
+8. J’aimerais tant revoir mes frères<br />
 Mes enfants, mes parents, mes amis<br />
 Danser le dabkeh* pour repousser la mort<br />
 Trinquer l’arak* jusqu’au bout de la vie<br />
 
-Je voudrais une dernière<br />
+9. Je voudrais une dernière<br />
 Chanson pour apaiser la nuit<br />
 Pour bercer mon départ jusqu’à l’autre bord<br />
 Dire aux faiseurs de mort que l’on survit<br />
 
-Je vous le dis, je vous le dis, je vous le dis<br />
-Que maudite soit la guerre<br />
-Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilas<br />
-<br />
-La guerre c’est un massacre<br />
-De gens qui ne se connaissent pas<br />
-Au profit de gens qui toujours se connaissent<br />
-Mais qui ne se massacrent pas<br />
-
-La guerre c’est un massacre<br />
-De gens qui ne se connaissent pas<br />
-Au profit de gens qui toujours se connaissent<br />
-Mais qui ne se massacrent pas<br />
-
-Je vous le dis, je vous le dis, je vous le dis<br />
+10. Je vous le dis, je vous le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
 Je m’éteins dans la rue des Lilas<br />
 
-Je vous le dis, je vous le dis, je vous le dis<br />
+11. La guerre c’est un massacre<br />
+De gens qui ne se connaissent pas<br />
+Au profit de gens qui toujours se connaissent<br />
+Mais qui ne se massacrent pas<br />
+
+12. La guerre c’est un massacre<br />
+De gens qui ne se connaissent pas<br />
+Au profit de gens qui toujours se connaissent<br />
+Mais qui ne se massacrent pas<br />
+
+13. Je vous le dis, je vous le dis, je vous le dis<br />
+Que maudite soit la guerre<br />
+Maudits les chars, les fusils, les combats<br />
+Je m’éteins dans la rue des Lilas<br />
+
+14. Je vous le dis, je vous le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
 Je m’éteins dans la rue des Lilas<br />
 Je m’éteins dans la rue des Lilas...<br />
 
 
-
 * dabkeh : danse populaire traditionnelle de Syrie, du Liban, de Palestine et de Jordanie.<br />
 * arak : eau-de-vie de vin, traditionnellement produite et consommée au Liban, en Syrie, en Jordanie, en Palestine.<br />
 <br />
-[top](#chansonnier-jou)    <br />
-<br />
+[top](#chansonnier-jou) <br />
+
 ## Je suis fille de marin<br />
 
 Lo lolo lolo lo...<br />
+
 1. Je suis fille de marin qui traversa la mer<br />
 Je suis fille de soldat qui déteste la guerre<br />
 Je suis fille de forçat, criminel évadé<br />
@@ -934,7 +979,9 @@ Fille de coureuse des bois et de contrebandière<br />
 Enfant des sept nations et fille d’aventurière<br />
 Métisse et sang-mêlée, bien qu’on me l’ait caché<br />
 C’était sujet de honte, j’en ferai ma fierté<br />
+
 Lo lolo lolo lo...<br />
+
 2. Je suis fille d’Irlandais, poussé par la famine<br />
 Je suis fille d’Écossais venu crever en usine<br />
 Dès l’âge de huit ans, seize heures sur les machines<br />
@@ -943,7 +990,9 @@ Non, je suis resté droit, là devant les patrons<br />
 Même le jour où ils ont passé la conscription<br />
 J’suis fille de paysanne, et fille d’ouvrière<br />
 Je ne prends pas les armes contre d’autres en galère<br />
+
 Lo lolo lolo lo...<br />
+
 3. Ce n’était pas ma guerre, alors j’ai déserté<br />
 J’ai fui dans les forêts et je m’y suis caché<br />
 Refusant de servir_ de chair à canon<br />
@@ -952,12 +1001,15 @@ Une nation qui ne fut jamais vraiment la mienne<br />
 Une alliance forcée de misère et de peine<br />
 Celle du génocide des premières nations<br />
 Celle de l’esclavage et des déportations<br />
+
 Lo lolo lolo lo...<br />
+
 4. Je n’aime pas le lys, je n’aime pas la croix<br />
 Une est pour les curés, et l’autre est pour les rois<br />
 Si j’aime mon pays, la terre qui m’a vu naître<br />
 Je ne veux pas de dieu, je ne veux pas de maître<br />
 Je ne veux pas de dieu, je ne veux pas de maître<br />
+
 Lo lolo lolo lo...<br />
 <br />
-[top](#chansonnier-jou)    <br />
+[top](#chansonnier-jou) <br />
