@@ -552,20 +552,23 @@ questa canzone porterò<br />
 
 ## Canción sin miedo
 
-1. Que tiemble el Estado, los cielos, las calles<br />
-Que tiemblen los jueces y los judiciales<br />
-Hoy a las mujeres nos quitan la calma<br />
-Nos sembraron miedo, nos crecieron alas<br />
+0. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah
 
-2. A cada minuto, de cada semana<br />
-Nos roban amigas, nos matan hermanas<br />
-Destrozan sus cuerpos, los desaparecen<br />
+1. ou ou ou *(~~Que tiemble el Estado, los cielos, las calles~~)*<br />
+ou ou ou *(~~Que tiemblen los jueces y los judiciales~~)*<br />
+ou ou ou ou (~~Hoy a las mujeres nos quitan la calma~~)*<br />
+ah-ah-ah *(~~Nos sembraron miedo~~)*<br />
+aaah *(~~ nos crecieron alas~~)*<br />
+
+2. ou ou ou *(~~A cada minuto, de cada semana~~)* <br />
+ou ou ou *(~~Nos roban amigas, nos matan hermanas~~)* <br />
+ou ou ou *(~~Destrozan sus cuerpos, los desaparecen~~)*<br />
 No olvide sus nombres, por favor, señor presidente<br />
 
-3. Por todas las compas marchando en Reforma<br />
-Por todas las morras peleando en Sonora<br />
-Por las comandantas luchando por Chiapas<br />
-Por todas las madres buscando en Tijuana<br />
+3. ouu-ouu-... *(~~Por todas las compas marchando en Reforma~~)*<br />
+...ouu-ouu *(~~Por todas las morras peleando en Sonora~~)*<br />
+ou-ou-ou-ou-... *(~~Por las comandantas luchando por Chiapas~~)* <br />
+...-ouu-ou *(~~Por todas las madres buscando en Tijuana~~)* <br />
 
 4. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
@@ -584,12 +587,12 @@ Soy la madre que ahora llora por sus muertas<br />
 
 7. Y soy esta que te hará pagar las cuentas<br />
 
-8. ¡Justicia, justicia, justicia!<br />
+8. ¡Justicia, justicia, justicia, justicia!<br />
 
-9. Por todas las compas marchando en Reforma<br />
-Por todas las morras peleando en Sonora<br />
-Por las comandantas luchando por Chiapas<br />
-Por todas las madres buscando en Tijuana<br />
+9. ouu-ouu-... *(~~Por todas las compas marchando en Reforma~~)*<br />
+...ouu-ouu *(~~Por todas las morras peleando en Sonora~~)*<br />
+ou-ou-ou-ou-... *(~~Por las comandantas luchando por Chiapas~~)* <br />
+...-ouu-ou *(~~Por todas las madres buscando en Tijuana~~)* <br />
 
 10. Cantamos sin miedo, pedimos justicia<br />
 Gritamos por cada desaparecida<br />
@@ -597,12 +600,12 @@ Que resuene fuerte "¡nos queremos vivas!"<br />
 Que caiga con fuerza el feminicida<br />
 Que caiga con fuerza el feminicida<br />
 
-11. Y retiemblen sus centros la tierra<br />
+11. *(lento :)* Y retiemblen sus centros la tierra<br />
 Al sororo rugir del amor<br />
 Y retiemblen sus centros la tierra<br />
 Al sororo rugir del amor<br />
-<br />
-[top](#chansonnier-jou)    <br />
+
+[top](#chansonnier-jou) <br />
 
 ## Il galleone 
 
