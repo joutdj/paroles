@@ -5,35 +5,34 @@ Version brouillon de jou (soprano).<br />
 ## Sommaire
 
 [Allez les gars](#allez-les-gars)<br />
-[Here's to you](#here-s-to-you)<br />
-[La révolte](#la-revolte)<br />
-[The digger's song](#the-digger-s-song)<br />
+[Here's to you](#heres-to-you)<br />
+[La révolte](#la-révolte)<br />
+[The digger's song](#the-diggers-song)<br />
 [Avenue du Dragon](#avenue-du-dragon)<br />
-[A bas l'état policier](#a-bas-l-etat-policier)<br />
-[L'estaca](#l-estaca)<br />
+[A bas l'état policier](#a-bas-létat-policier)<br />
+[L'estaca](#lestaca)<br />
 [Bella Ciao](#bella-ciao)<br />
-[Canción sin miedo](#cancion-sin-miedo)<br />
+[Canción sin miedo](#canción-sin-miedo)<br />
 [Il galleone](#il-galleone)<br />
-[Clémence en vacances](#clemence-en-vacances)<br />
+[Clémence en vacances](#clémence-en-vacances)<br />
 [La Makhnovtchina](#la-makhnovtchina)<br />
-[La vie s'écoule](#la-vie-s-ecoule)<br />
+[La vie s'écoule](#la-vie-sécoule)<br />
 [La rue des Lilas](#la-rue-des-lilas)<br />
 
 [top](#chansonnier-jou) <br />
 
 ## Allez les gars
 
-1. *(SAT, sur 2 notes :)* Ouuuuuuuuuuu<br />
-*(B : Oh, je n’oublierai pas devant nous, les casqués <br />
-Les fusils lance-grenades et les grands boucliers <br />
-Tout ça pour nous forcer quand nous n’avions pour nous <br />
-Que nos poings, le bon droit, et puis quelques cailloux.)* <br />
+1. *(Levée basses : ~~ Oh, je n’oublierai pas~~)*<br />
+Ouuuu *(~~devant nous, les casqués~~)*<br />
+Ouuuu ouuuu *(~~Les fusils lance-grenades et les grands boucliers~~)* <br />
+Ouuuu ouuuu *(~~Tout ça pour nous forcer quand nous n’avions pour nous~~)* <br />
+Ouuuu ouuuu *(~~Que nos poings, le bon droit, et puis quelques cailloux.~~)* <br />
 
-2. *(SAT, sur 2 notes :)* Ouuuuuuuuuuu<br />
-*(B : D’abord on s’avançait en frappant dans les mains <br />
-Y en avait parmi eux des vraies têtes de gamins <br />
-Les regards s’affrontaient, face à face, de tout près <br />
-Eux devaient la boucler, nous pas, et on chantait: )* <br />
+2. Ouuuu ouuuu *(~~D’abord on s’avançait en frappant dans les mains~~)* <br />
+Ouuuu ouuuu *(~~Y en avait parmi eux des vraies têtes de gamins~~)* <br />
+Ouuuu ouuuu *(~~Les regards s’affrontaient, face à face, de tout près~~)* <br />
+Ouuuu ouuuuu *(~~Eux devaient la boucler, nous pas, et on chantait:~~)* <br />
 
 3. *(Tutti :)* __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
@@ -63,7 +62,7 @@ Les actionnaires ramassent les sous <br />
 8. ↑Avoue franchement, c’est quand même pas<br />
 ↑La vie qu’t’avais rêvé pour toi,<br />
 Cogner des gens pour faire tes heures <br />
-T’aurais mieux fait d’rester chômeur.<br />
+T’aurais mieux fait d’rester chômeur<br />
 
 9. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
@@ -78,7 +77,7 @@ Dans deux minutes à m’castagner <br />
 11. ↑Je sais qu’tu vas pas hésiter<br />
 ↑T’es bien dressé, baratiné,<br />
 Mais au moins j’aurai essayé <br />
-Avant les bosses de te causer.<br />
+Avant les bosses de te causer<br />
 
 12. __Allez les gars combien on vous paye<br />
 Combien on vous paye pour faire ça <br />
@@ -93,24 +92,21 @@ Combien on vous paye pour faire ça__ <br />
 Rest forever here in our hearts<br />
 The last and final moment is yours<br />
 That agony is your triumph__ <br />
-<br />
-*(3x)*<br />
-<br />
-*(Puis 2x :)* __lalala__ <br />
+*(Répéter 3x, puis 2x sur lalala)*<br />
 
 [top](#chansonnier-jou) <br />
 
 ## La révolte 
 
 1. Nous sommes les persécuté-e-s<br />
-De tous les temps et de toutes les guerres ;<br />
+De tous les temps et de toutes les guerres<br />
 Toujours nous fûmes exploité-e-s<br />
-Par les tyrans et leurs cerbères.<br />
+Par les tyrans et leurs cerbères<br />
 
 2. Mais nous ne voulons plus fléchir<br />
-Sous le joug qui courba nos têtes,<br />
+Sous le joug qui courba nos têtes<br />
 Car nous voulons nous affranchir<br />
-De ce qui cause nos misères.<br />
+De ce qui cause nos misères<br />
 
 3. __Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
@@ -121,15 +117,15 @@ Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
 Nous réaliserons l'Idéal libertaire !__ <br />
 
-4. Ouvriers ou bien paysans,<br />
-Travailleuses de la terre ou de l'usine,<br />
-Nous sommes, dès nos jeunes ans,<br />
-Réduit-e-s au labeur qui nous mine.<br />
+4. Ouvriers ou bien paysans<br />
+Travailleuses de la terre ou de l'usine<br />
+Nous sommes, dès nos jeunes ans<br />
+Réduit-e-s au labeur qui nous mine<br />
 
-5. D'un bout du monde à l'autre bout,<br />
-C'est nous qui créons l'abondance;<br />
+5. D'un bout du monde à l'autre bout<br />
+C'est nous qui créons l'abondance<br />
 C'est nous tous qui produisons tout<br />
-Et nous vivons dans l'indigence.<br />
+Et nous vivons dans l'indigence<br />
 
 6. __Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
@@ -148,7 +144,7 @@ Au nom de l'ordre on nous mitraille<br />
 8. Les maître(u)s ont changé cent fois<br />
 C'est le jeu de la démocratie<br />
 Quels que soient ceux qui font les lois<br />
-C'est toujours la même(uh) supercherie.<br />
+C'est toujours la même(uh) supercherie<br />
 
 9. __Église, parlement,<br />
 Patriarcat, Etat, militarisme<br />
@@ -167,10 +163,10 @@ A mourir pour notre patrie<br />
 11. Nous ne possédons rien de rien<br />
 Nous avons horreur de la guerre<br />
 Voleurs, défendez votre bien<br />
-Ce n'est pas à nous de le faire.<br />
+Ce n'est pas à nous de le faire<br />
 
 12. __Église, parlement,<br />
-Patriarcat, Etat, militarisme...<br />
+Patriarcat, Etat, militarisme<br />
 Patrons et gouvernants,<br />
 Débarrassons-nous du capitalisme<br />
 Pressant est notre appel,<br />
@@ -182,7 +178,7 @@ Nous réaliserons l'Idéal libertaire !__<br />
 
 ## The digger's song
 
-1. __You noble diggers all stand up now, stand up now,
+1. __You noble diggers all stand up now, stand up now,<br />
 You noble diggers all stand up now__ <br />
 The wasteland to maintain sing cavaliers by name<br />
 Your digging does maintain and persons all_ defame<br />
@@ -193,19 +189,19 @@ Your houses they pull down, stand up now__
 <br />
 Your houses they pull down to fright your men in town<br />
 But the gentry must come down and the poor shall wear_ the crown<br />
-Stand up now diggers all<br />
+Stand up now, diggers all<br />
 
 3. __With spades and hoes and ploughs, stand up now, stand up now,<br />
 With spades and hoes and ploughs, stand up now__<br />
 Your freedom to uphold sing cavaliers are bold<br />
 To kill you if they could and rights from you_ to hold<br />
-Stand up now diggers all<br />
+Stand up now, diggers all<br />
 
 4. __The gentry are all round, stand up now, stand up now,<br />
 The gentry are all round, stand up now__ <br />
 The gentry are all round on each side the are found<br />
 Their wisdom so profound to cheat us of our ground<br />
-Stand up now stand up now<br />
+Stand up now, stand up now<br />
 
 5. __The lawyers they conjoin, stand up now, stand up now,<br />
 The lawyers they conjoin, stand up now__ <br />
@@ -223,64 +219,63 @@ Stand up now, stand up now<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
 Qu’on l’entende avenue du dragon !__<br />
-<br />
 
-2. *(Moi, c’est Paul et j’ai pas de chaussettes,<br />
-Ca fait mal aux pieds quand je vais travailler.<br />
-J’ai trois gosses et six loyers de dettes)* <br />
-__Et je vais coucher dans la cage d’escalier.__<br />
+2. *(~~Moi, c’est Paul et j’ai pas de chaussettes<br />
+Ca fait mal aux pieds quand je vais travailler<br />
+J’ai trois gosses et six loyers de dettes~~)* <br />
+Et je vais coucher dans la cage d’escalier<br />
 
-3. *(Moi, c’est Sam et j’ai pas de chaussures,<br />
+3. *(~~Moi, c’est Sam et j’ai pas de chaussures,<br />
 Ca fait deux cent jours que j’ai pas travaillé.<br />
-Ce matin, j’ai tiré trois voitures)* <br />
-__Et j’ai jeté les clés dans la cage d’escalier.__<br />
+Ce matin, j’ai tiré trois voitures~~)* <br />
+Et j’ai jeté les clés dans la cage d’escalier<br />
 
 4. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dis ton nom !<br />
 Qu’on l’entende avenue du dragon !__<br />
 
-5. *(Moi c’est Ben, j’ai froid j’ai plus de gants,<br />
+5. *(~~Moi c’est Ben, j’ai froid j’ai plus de gants,<br />
 Et le marteau piqueur ça fait mal à mes dents !<br />
-Plus que j’peine et moins que j’ai d’argent,)* <br />
-__Alors je vais pisser dans la cage d’escalier !__ <br />
+Plus que j’peine et moins que j’ai d’argent,~~)* <br />
+Alors je vais pisser dans la cage d’escalier ! <br />
 
-6. *(Moi c’est Sam et j’ai les doigts qui gèlent,<br />
+6. *(~~Moi c’est Sam et j’ai les doigts qui gèlent,<br />
 Ca fait huit cent jours que j’ai pas travaillé.<br />
-Ce matin, j’ai bouffé les poubelles)* <br />
-__Et j’ai tagué « ta gueule » dans la cage d’escalier.__ <br />
+Ce matin, j’ai bouffé les poubelles~~)* <br />
+Et j’ai tagué « ta gueule » dans la cage d’escalier.<br />
 
 7. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-8. *(Moi, c’est Jeanne, viré de la Lyonnaise.<br />
+8. *(~~Moi, c’est Jeanne, viré de la Lyonnaise.<br />
 J’alignais des zéros sur des comptes truqués !<br />
-Mais j’ai jamais su monter les mayonnaises et)* <br />
-__Depuis je vais pointer dans la cage d’escalier !__ <br />
+Mais j’ai jamais su monter les mayonnaises et~~)* <br />
+Depuis je vais pointer dans la cage d’escalier ! <br />
 
-9. *(Moi c’est Sam et j’ai les plombs qui pètent :<br />
+9. *~~Moi c’est Sam et j’ai les plombs qui pètent :<br />
 A nous la monseigneur de monsieur le curé !<br />
-Quand c’est vide, tirez la chevillette !)* <br />
-__Pétez les bobinettes dans les cages d’escalier !__ <br />
+Quand c’est vide, tirez la chevillette !~~)* <br />
+Pétez les bobinettes dans les cages d’escalier ! <br />
 
 10. __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
 Craches les feu, l’amour et dit ton nom !<br />
 Qu’on l’entende avenue du dragon !__ <br />
 
-11. Paul et Ben et Jeanne; Sam : c’est nous !<br />
-Paul et Ben et Jeanne, Sam : c’est nous !<br />
+11. *__Paul et Ben et Jeanne, Sam : c’est nous !<br />
+Paul et Ben et Jeanne, Sam : c’est nous !__*<br />
 
 12. *(Scandé ou chanté :)* <br />
 Nous c’est tout, c’est rien pour la bourgeoise.<br />
 Mais quand ça pousse en bas, ça fait peur aux banquiers !<br />
 Y a des sous pour payer les ardoises<br />
-Et on est quatre vingt dans la cage d’escalier !<br />
+Et on est quatre-vingt dans la cage d’escalier !<br />
 
 13. *(Scandé ou chanté :)* <br />
-Quatre vingt c’est peu mais ça commence :<br />
+Quatre-vingt c’est peu mais ça commence :<br />
 Ca fait des millions qui vont pas travailler.<br />
 Droit devant ! Le nez dans vos finances !<br />
 On va tout faire sauter dans les cages d’escalier !<br />
@@ -288,9 +283,9 @@ On va tout faire sauter dans les cages d’escalier !<br />
 14. *(doucement :)* <br />
 __Craches le feu, l’amour et dit ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
-Craches les feu, l’amour et dit ton nom !<br />
-(fort)<br />
-Qu'on l'entendE dans la rue Royaume__ <br />
+Craches les feu, l’amour et dit ton nom !__<br />
+*(fort :)*<br />
+__Qu'on l'entendE dans la rue Royaume__ <br />
 
 [top](#chansonnier-jou) <br />
 
@@ -298,20 +293,17 @@ Qu'on l'entendE dans la rue Royaume__ <br />
 
 ### Canon court 
 
-__A baas l'étaat policier <br />
-<br />
+__...A baas l'étaat policier <br />
 A bas l'état policier<br />
-<br />
-AA bas-l'ééétat _ poolii... (canon)<br />
-<br />
--cier.__ <br />
+AA bas-l'ééétat _ poolii...__<br />
+-cier. <br />
 
 ### Version complète 
 
 1. Puisque la provocation<br />
 Celle qu’on a pas dénoncée<br />
 Ce fut de nous envoyer<br />
-En réponse à nos questions<br />
+En réponse à nos questions...<br />
 Vos hommes bien lunettés<br />
 Bien casqués, bien boucliés<br />
 Bien grenadés, bien soldés<br />
@@ -324,7 +316,7 @@ Nous nous sommes mis à crier<br />
 3. Parce que vous avez posté<br />
 Dans les cafés, dans les gares<br />
 Vos hommes aux allures bizarres<br />
-Pour ficher, pour arrêter<br />
+Pour ficher, pour arrêter...<br />
 Les grévistes, les parias<br />
 Au nom de je n’sais quelle loi<br />
 Et beaucoup d’autres encore<br />
@@ -337,7 +329,7 @@ Nous avons crié plus fort<br />
 5. Mais ce n’était pas assez<br />
 Pour venir à bout de nous<br />
 Dans les facs à la rentrée<br />
-Vous frappez un nouveau coup<br />
+Vous frappez un nouveau coup...<br />
 Face aux barbouzes, aux sportifs<br />
 Face à ce dispositif<br />
 Nous crions avec colère<br />
@@ -350,7 +342,7 @@ Continuez ! Ce sera la guerre<br />
 7. Vous êtes reconnaissables<br />
 Vous les flics du monde entier<br />
 Les mêmes imperméables<br />
-La même mentalité<br />
+La même mentalité...<br />
 Mais nous sommes de Paris<br />
 De Prague et de Mexico<br />
 Et de Berlin à Tokyo<br />
@@ -363,12 +355,10 @@ Des millions à vous crier<br />
 [top](#chansonnier-jou) <br />
 
 ## L'estaca 
-
-*(note tmp : Vérifier (`*) les paroles)* <br />;
  
-[Aller à la version en catalan](#version-en-catalan)
-
 ### Version en français 
+
+[Aller à la version en catalan](#version-en-catalan)
 
 1. Du temps où je n'étais qu'un gosse <br />
 Mon grand-père me disait souvent <br />
@@ -434,7 +424,7 @@ Segur que tomba, tomba, to*(u)*mba <br />
 
 ### Version en catalan
 
-[Aller à la version en français](#version-en-francais)
+[Aller à la version en français](#version-en-français)
 
 1. L’avi	Siset	em	parlava<br />
 De	bon	matí al	portal*<br />
