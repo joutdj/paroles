@@ -363,14 +363,13 @@ Des millions à vous crier<br />
 1. Du temps où je n'étais qu'un gosse <br />
 Mon grand-père me disait souvent <br />
 Assi à l'ombre de son porche <br />
-En regardant passer le vent: <br />
-
-2. Petit, vois-tu ce pieu de bois <br />
+En regardant passer le vent : <br /><br />
+Petit, vois-tu ce pieu de bois <br />
 Au quel nous somme touxtes enchaînées<br />
 Tant qu'il sera planté comme ça <br />
 Nous n'aurons pas la liberté.<br />
 
-3. __Mais si nous tirons toustes il tombera <br />
+2. __Mais si nous tirons toustes il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
@@ -379,17 +378,16 @@ Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe tombe tombe <br />
 Et nous aurons la liberté !__ <br />
 
-4. Petit, ça fait déjà longtemps <br />
+3. Petit, ça fait déjà longtemps <br />
 Que je m'y écorche les mains <br />
 Et je me dis de temps en temps <br />
-Que je me suis battu pour rien <br />
-
-5. Il est toujours si grand, si lourd <br />
+Que je me suis battu pour rien <br /><br />
+Il est toujours si grand, si lourd <br />
 La force vient à me manquer <br />
 Je me demande si un jour <br />
 Nous aurons bien la liberté.<br />
 
-6. __Mais si nous tirons tous il tombera <br />
+4. __Mais si nous tirons tous il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
@@ -398,17 +396,16 @@ Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe, tombe, tombe <br />
 Et nous aurons la liberté !__ <br />
 
-7. Puis mon grand-père s'en est allé (`*)<br />
+5. Puis mon grand-père s'en est allé<br />
 Un vent mauvais l'a emporté <br />
 Et je reste seul sous le proche <br />
-À regarder jouer d'autres gosses <br />
-
-8. Dansant autour du vieux pieu noir <br />
+À regarder jouer d'autres gosses <br /><br />
+Dansant autour du vieux pieu noir <br />
 Où tant de mains se sont usées <br />
 Ils chantent des chansons d'espoir <br />
 Qui parlent de la liberté<br />
 
-9. __Oh si nous tirons tous il tombera <br />
+6. __Oh si nous tirons tous il tombera <br />
 Ça ne peut pas durer comme ça ! <br />
 Il faut qu'il tombe tombe tombe <br />
 Vois-tu comment il penche déjà ! <br />
@@ -417,10 +414,10 @@ Et si tu tires à mes côtés <br />
 C'est sûr qu'il tombe, tombe, tombe <br />
 Et nous aurons la liberté !__ <br />
 
-10. __Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
+7. __Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
-Segur que tomba, tomba, to*(u)*mba <br />
-`_i’ens po*(u)*drem aliberar.__ <br />
+Segur que to*u*mba, to*u*mba, to*u*mba <br />
+\_i’ens po*u*drem aliberar.__ <br />
 
 ### Version en catalan
 
