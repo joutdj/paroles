@@ -426,14 +426,13 @@ Segur que to*u*mba, to*u*mba, to*u*mba <br />
 1. L’avi	Siset	em	parlava<br />
 De	bon	matí al	portal*<br />
 Mentre	el	sol	esperàvem<br />
-I’els	carros	vèiem	passar.<br />
-
-2. Siset,	que	no	veus	l’estaca<br />
+I’els	carros	vèiem	passar.<br /><br />
+Siset,	que	no	veus	l’estaca<br />
 A	on	estem	tots lligats	?<br />
 Si	no	podem*	desfer-ns-en<br />
 Mai	no	podrem* caminar	!<br />
 
-3. __Si estirem tots, ella caurà<br />
+2. __Si estirem tots, ella caurà<br />
 I molt de temps no pot durar,<br />
 Segur que tomba, tomba, tomba<br />
 Ben corcada* deu ser ja.<br />
@@ -442,15 +441,32 @@ I jo l’estiro fort per’llà,<br />
 Segur que tomba, tomba, tomba
 I’ens podrem aliberar.__<br />
 
-4. P’rò,	Siset,	fa	molt	temps	ja	:<br />
+3. P’rò,	Siset,	fa	molt	temps	ja	:<br />
 Les	mans	se’m	van	escorxant*,<br />
 I	quan	la	força	se	me’n	va<br />
-Ella	és	més	ampla	i	més	gran.<br />
-
-5. Ben	cert	sé	qu’està	podrida*<br />
+Ella	és	més	ampla	i	més	gran.<br /><br />
+Ben	cert	sé	qu’està	podrida*<br />
 P’rò	és	que,	Siset,	pesa	tant<br />
 Qu’a	cops	la	força	m’oblida.<br />
 Torna’m	a	dir	el	teu	cant	:<br />
+
+4. __Si estirem tots, ella caurà<br />
+I molt de temps no pot durar,<br />
+Segur que tomba, tomba, tomba<br />
+Ben corcada* deu ser ja.<br />
+Si tu l’estires fort per’qui<br />
+I jo l’estiro fort per’llà,<br />
+Segur que tomba, tomba, tomba
+I’ens podrem aliberar.__ <br />
+
+5. L’avi	Siset	ja	no diu	res,<br />
+Mal	vent	que	l’emportà<br />
+Ell	qui	sap	cap	a	quin	indret<br />
+I	jo	sota el	portal<br /><br />
+I	mentre	passen	els	nous	vailets<br />
+Estiro	el	coll	per	cantar<br />
+El	darrer	cant d’en	Siset,<br />
+El	darrer	qu’em	va’ensenyar.<br />
 
 6. __Si estirem tots, ella caurà<br />
 I molt de temps no pot durar,<br />
@@ -461,26 +477,7 @@ I jo l’estiro fort per’llà,<br />
 Segur que tomba, tomba, tomba
 I’ens podrem aliberar.__ <br />
 
-7. L’avi	Siset	ja	no diu	res,<br />
-Mal	vent	que	l’emportà<br />
-Ell	qui	sap	cap	a	quin	indret<br />
-I	jo	sota el	portal<br />
-
-8. I	mentre	passen	els	nous	vailets<br />
-Estiro	el	coll	per	cantar<br />
-El	darrer	cant d’en	Siset,<br />
-El	darrer	qu’em	va’ensenyar.<br />
-
-9. __Si estirem tots, ella caurà<br />
-I molt de temps no pot durar,<br />
-Segur que tomba, tomba, tomba<br />
-Ben corcada* deu ser ja.<br />
-Si tu l’estires fort per’qui<br />
-I jo l’estiro fort per’llà,<br />
-Segur que tomba, tomba, tomba
-I’ens podrem aliberar.__ <br />
-
-10. Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
+7. Laï laï Laï laï	Laï	laï	Laï	laï	<br />
 Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Segur que tomba, tomba, tomba <br />
 I’ens podrem aliberar.<br />
@@ -489,8 +486,7 @@ I’ens podrem aliberar.<br />
 
 ## Bella Ciao
 
-1. *(lent :)* <br />
-Una mattina mi son svegliata<br />
+1. *(lent :)* Una mattina mi son svegliata<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 una mattina mi son svegliata<br />
 e ho trovato l'invasor<br />
@@ -500,8 +496,7 @@ __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 e fra gl'insetti e le zanzare<br />
 un dur lavor ci tocca far.<br />
 
-3. *(rapide :)* <br />
-Il capo'in piedi - col suo bastone<br />
+3. *(rapide :)* Il capo'in piedi - col suo bastone<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 il capo'in piedi col suo bastone<br />
 e noi curve a lavorar.<br />
@@ -516,14 +511,12 @@ __o bella ciao, bella ciao, bella ciao, ciao, ciao__ <br />
 e so che muoio perché son donna<br />
 e non mi voglio rassegnar.<br />
 
-6. *(lent :)* <br />
-Mi seppellirai - lassù'in montagna<br />
+6. *(lent :)* Mi seppellirai - lassù'in montagna<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 mi seppellirai lassù'in montagna<br />
 _ sotto l'ombra d'un bel fior<br />
 
-7. *(rapide :)* <br /> 
-E quest'é'il fiore - dei partigiani<br />
+7. *(rapide :)* E quest'é'il fiore - dei partigiani<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 e quest'é'il fiore dei partigiani<br />
 `_morti per la libertà<br />
@@ -537,20 +530,20 @@ questa canzone porterò<br />
 
 ## Canción sin miedo
 
-0. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah
+1. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah
 
-1. ou ou ou *(~~Que tiemble el Estado, los cielos, las calles~~)*<br />
+2. ou ou ou *(~~Que tiemble el Estado, los cielos, las calles~~)*<br />
 ou ou ou *(~~Que tiemblen los jueces y los judiciales~~)*<br />
-ou ou ou ou (~~Hoy a las mujeres nos quitan la calma~~)*<br />
+ou ou ou ou *(~~Hoy a las mujeres nos quitan la calma~~)*<br />
 ah-ah-ah *(~~Nos sembraron miedo~~)*<br />
 aaah *(~~ nos crecieron alas~~)*<br />
 
-2. ou ou ou *(~~A cada minuto, de cada semana~~)* <br />
+3. ou ou ou *(~~A cada minuto, de cada semana~~)* <br />
 ou ou ou *(~~Nos roban amigas, nos matan hermanas~~)* <br />
 ou ou ou *(~~Destrozan sus cuerpos, los desaparecen~~)*<br />
 No olvide sus nombres, por favor, señor presidente<br />
 
-3. ouu-ouu-... *(~~Por todas las compas marchando en Reforma~~)*<br />
+4. ouu-ouu-... *(~~Por todas las compas marchando en Reforma~~)*<br />
 ...ouu-ouu *(~~Por todas las morras peleando en Sonora~~)*<br />
 ou-ou-ou-ou-... *(~~Por las comandantas luchando por Chiapas~~)* <br />
 ...-ouu-ou *(~~Por todas las madres buscando en Tijuana~~)* <br />
@@ -569,8 +562,7 @@ Si tocan a una, respondemos todas<br />
 Soy Ingrid, soy Fabiola y soy Valeria<br />
 Soy la niña que subiste por la fuerza<br />
 Soy la madre que ahora llora por sus muertas<br />
-
-7. Y soy esta que te hará pagar las cuentas<br />
+Y soy esta que te hará pagar las cuentas<br />
 
 8. ¡Justicia, justicia, justicia, justicia!<br />
 
@@ -594,10 +586,10 @@ Al sororo rugir del amor<br />
 
 ## Il galleone 
 
-1. hmm-mmm-mmm-mmmm hmm-mmm hmm-mmm<br />
-hmm-hmm-hmm-hmmmmmmm hm-hmm-mmmmmm<br />
-hmm-hmm-hmm-mmmmmmm hm-mmm hm-mmm<br />
-hmm-hmm-hmm-mmmmmmm hmm-hmm-mmmmmm<br />
+1. hm-mm-mm-mmmm hm-mm hm-mm<br />
+hm-hm-hm-mmmm hm-mm-mmmm<br />
+hm-hm-hm-mmmm hm-mm hm-mm<br />
+hm-hm-hm-mmmm hm-mm-mmmm<br />
 
 2. Siamo la ciurma anemica<br />
 D'una galera infame<br />
@@ -649,8 +641,8 @@ Pugnam (ñ) col braccio forte!<br />
 Giuriam giuriam giustizia!<br />
 O libertà o morte!__<br />
 
-12. hmm-hmm-hmm-hmmmm hmm-hmm-hmmmmmmm<br />
-hmm-hmm-hmm-hmmm hmmm-hmm-hmmmmm<br />
+12. hm-hm-hm-hmm hm-hm-hmmm<br />
+hm-hm-hm-hmm hm-hm-hmmm<br />
 [chuchoté]<br />
 13. Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
@@ -766,75 +758,74 @@ Se reposeraient enfin<br />
 
 14. Choubidou bidou...<br />
 
-14. Choubidou bidou...
-
 [top](#chansonnier-jou) <br />
 
 ## La Makhnovtchina 
 
-*(S+A, lent, croches :)*<br />
-1. Makhnovtchina, Makhnovtchina, <br />
+1. *(S+A, lent, croches :)*<br />
+Makhnovtchina, Makhnovtchina, <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang. <br />
 
-*(Tutti, rapide, croches pointées :)*<br />
-2. Par les monts et par les plaines, <br />
+2. *(Tutti, rapide, croches pointées :)*<br />
+Par les monts et par les plaines, <br />
 Dans la neige et dans le vent, <br />
 A travers toute l'Ukraine, <br />
 Se levaient nos partisans.<br />
 A travers toute l'Ukraine, <br />
 Se levaient nos partisans.<br />
 
-*(Tutti, rapide, croches pointées :)*<br />
-3. ||| Au printemps ||| les traités - de Léniiine<br />
+3. *(Tutti, rapide, croches pointées :)*<br />
+||| Au printemps ||| les traités - de Léniiine<br />
 Ont livré l'Ukraine aux Allemands. <br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 
-*(S+A, lent, croches :)*<br />
-4. Makhnovtchina, Makhnovtchina, <br />
+4. *(S+A, lent, croches :)*<br />
+Makhnovtchina, Makhnovtchina, <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
-*(Tutti, rapide, croches pointées :)*<br />
-5. L'armée blanche de Dénikine<br />
+5. *(Tutti, rapide, croches pointées :)*<br />
+L'armée blanche de Dénikine<br />
 Est entrée en Ukraine en chantant, <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 
-*(Tutti, rapide, croches pointées :)*<br />
-6. Makhnovstchina, Makhnovstchina,<br />
+6. *(Tutti, rapide, croches pointées :)*<br />
+Makhnovtchina, Makhnovtchina,<br />
 Armée noire de nos partisans,<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 
-*(Tutti, rapide, croches pointées :)*<br />
-7. Makhnovtchina, Makhnovtchina, <br />
+7. *(Tutti, rapide, croches pointées :)*<br />
+Makhnovtchina, Makhnovtchina, <br />
 Armée noire de nos partisans, <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 
-*(S+A, lent, croches :)*<br />
-8. Makhnovtchina, Makhnovtchina <br />
+8. *(S+A, lent, croches :)*<br />
+Makhnovtchina, Makhnovtchina <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
-*(Tutti lent, croches, rallentando)*<br />
-9. Ils sont noirs de notre peine, <br />
+
+9. *(Tutti lent, croches, rallentando)*<br />
+Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
 [top](#chansonnier-jou) <br />
@@ -904,9 +895,9 @@ oooh oooh *(~~Sur le trottoir de la rue des Lilas~~)* <br />
 4. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilaas *(1, 2)*<br />
+Je m’éteins dans la rue des Lilaaaaas *(= 1, 2)*<br />
 
-*(3, 4, 1, 2, 3)*
+*(compter : 3, 4, 1, 2, 3)*
 
 5. Plus jamais revoir la dune<br />
 Au matin quand s’effacent mes pas<br />
@@ -921,9 +912,9 @@ Jamais plus la mer, les étoiles, les forets<br />
 7. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilas*(1, 2)*<br />
+Je m’éteins dans la rue des Lilas *(= 1, 2)*<br />
 
-*(3, 4, 1, 2, 3)*
+*(compter : 3, 4, 1, 2, 3)*
 
 8. J’aimerais tant revoir mes frères<br />
 Mes enfants, mes parents, mes amis<br />
@@ -938,9 +929,9 @@ Dire aux faiseurs de mort que l’on survit<br />
 10. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilas*(1, 2)*<br />
+Je m’éteins dans la rue des Lilas *(= 1, 2)*<br />
 
-*(3, 4, 1, 2, 3)*
+*(compter : 3, 4, 1, 2, 3)*
 
 11. La guerre c’est un massacre<br />
 De gens qui ne se connaissent pas<br />
@@ -955,9 +946,9 @@ Mais qui ne se massacrent pas<br />
 13. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
 Maudits les chars, les fusils, les combats<br />
-Je m’éteins dans la rue des Lilas*(1, 2)*<br />
+Je m’éteins dans la rue des Lilas *(= 1, 2)*<br />
 
-*(3, 4, 1, 2, 3)*
+*(compter : 3, 4, 1, 2, 3)*
 
 14. Je vous le dis, je vouus le dis, je vous le dis<br />
 Que maudite soit la guerre<br />
@@ -965,8 +956,7 @@ Maudits les chars, les fusils, les combats<br />
 Je m’éteins dans la rue des Lilas<br />
 Je m’éteins dans la rue des Lilas...<br />
 
-*(`*dabkeh : danse populaire traditionnelle de Syrie, du Liban, de Palestine et de Jordanie.)*<br />
-*(`*arak : eau-de-vie de vin, traditionnellement produite et consommée au Liban, en Syrie, en Jordanie, en Palestine.)*<br />
+*(Notes. __Dabkeh__ : danse populaire traditionnelle de Syrie, du Liban, de Palestine et de Jordanie. __Arak__ : eau-de-vie de vin, traditionnellement produite et consommée au Liban, en Syrie, en Jordanie, en Palestine.)*<br />
 
 [top](#chansonnier-jou) <br />
 
