@@ -920,8 +920,8 @@ Je m’éteins dans la rue des Lilas *(= 1, 2)*<br />
 
 8. J’aimerais tant revoir mes frères<br />
 Mes enfants, mes parents, mes amis<br />
-Danser le dabkeh`* pour repousser la mort<br />
-Trinquer l’arak`* jusqu’au bout de la vie<br />
+Danser le dabkeh pour repousser la mort<br />
+Trinquer l’arak jusqu’au bout de la vie<br />
 
 9. Je voudrais une dernière<br />
 Chanson pour apaiser la nuit<br />
