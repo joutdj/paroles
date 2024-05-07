@@ -18,6 +18,8 @@ Version brouillon de jou (soprano).<br />
 [La Makhnovtchina](#la-makhnovtchina)<br />
 [La vie s'écoule](#la-vie-sécoule)<br />
 [La rue des Lilas](#la-rue-des-lilas)<br />
+[Je suis fille de marin](#je-suis-fille-de-marin)<br />
+
 
 [top](#chansonnier-jou) <br />
 
@@ -959,4 +961,68 @@ Je m’éteins dans la rue des Lilas...<br />
 *(Notes. __Dabkeh__ : danse populaire traditionnelle de Syrie, du Liban, de Palestine et de Jordanie. __Arak__ : eau-de-vie de vin, traditionnellement produite et consommée au Liban, en Syrie, en Jordanie, en Palestine.)*<br />
 
 [top](#chansonnier-jou) <br />
+
+## Je suis fille de marin
+
+
+1. Loo loo loo<br />
+loo loo loo<br />
+loo loo loo loo<br />
+loo loo loo<br />
+
+2. Je suis fille de marin qui traversa la mer<br />
+Je suis fille de soldat qui déteste la guerre<br />
+Je suis fille de forçat, criminel évadé<br />
+Et fille de fille du Roy, trop pauvre à marier<br /><br />
+Fille de coureuse des bois et de contrebandière<br />
+Enfant des sept nations et fille d’aventurière<br />
+Métisse et sang-mêlée, bien qu’on me l’ait caché<br />
+C’était sujet de honte, j’en ferai ma fierté<br /><br />
+
+3. Loo loo loo<br />
+loo loo loo<br />
+loo loo loo loo<br />
+loo loo loo<br />
+
+4. Je suis fille d’Irlandais, poussé par la famine<br />
+Je suis fille d’Écossais venu crever en usine<br />
+Dès l’âge de huit ans, seize heures sur les machines<br />
+Mais dieu sait que jamais je n’ai courbé l’échine<br /><br />
+Non, je suis resté droit, là devant les patrons<br />
+Même le jour où ils ont passé la conscription<br />
+J’suis fille de paysanne, et fille d’ouvrière<br />
+Je ne prends pas les armes contre d’autres en galère<br /><br />
+
+5. Loo loo loo<br />
+loo loo loo<br />
+loo loo loo loo<br />
+loo loo loo<br />
+
+6. l Ce n’était pas ma guerre, alors j’ai déserté<br />
+J’ai fui dans les forêts et je m’y suis caché<br />
+Refusant de servir_ de chair à canon<br />
+Refusant de mourir au loin pour la nation<br /><br />
+Une nation qui ne fut jamais vraiment la mienne<br />
+Une alliance forcée de misère et de peine<br />
+Celle du génocide des premières nations<br />
+Celle de l’esclavage et des déportations<br /><br />
+
+7. Loo loo loo<br />
+loo loo loo<br />
+loo loo loo loo<br />
+loo loo loo<br />
+
+8. Je n’aime pas le lys, je n’aime pas la croix<br />
+Une est pour les curés, et l’autre est pour les rois<br />
+Si j’aime mon pays, la terre qui m’a vu naître<br />
+Je ne veux pas de dieu, je ne veux pas de maître<br />
+Je ne veux pas de dieu, je ne veux pas de maître<br />
+
+9. Loo loo loo<br />
+loo loo loo<br />
+loo loo loo loo<br />
+loo loo loo<br />
+
+[top](#chansonnier-jou) <br />
+
 
