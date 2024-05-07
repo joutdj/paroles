@@ -964,7 +964,6 @@ Je m’éteins dans la rue des Lilas...<br />
 
 ## Je suis fille de marin
 
-
 1. Loo loo loo<br />
 loo loo loo<br />
 loo loo loo loo<br />
@@ -977,7 +976,7 @@ Et fille de fille du Roy, trop pauvre à marier<br /><br />
 Fille de coureuse des bois et de contrebandière<br />
 Enfant des sept nations et fille d’aventurière<br />
 Métisse et sang-mêlée, bien qu’on me l’ait caché<br />
-C’était sujet de honte, j’en ferai ma fierté<br /><br />
+C’était sujet de honte, j’en ferai ma fierté<br />
 
 3. Loo loo loo<br />
 loo loo loo<br />
@@ -991,7 +990,7 @@ Mais dieu sait que jamais je n’ai courbé l’échine<br /><br />
 Non, je suis resté droit, là devant les patrons<br />
 Même le jour où ils ont passé la conscription<br />
 J’suis fille de paysanne, et fille d’ouvrière<br />
-Je ne prends pas les armes contre d’autres en galère<br /><br />
+Je ne prends pas les armes contre d’autres en galère<br />
 
 5. Loo loo loo<br />
 loo loo loo<br />
@@ -1005,7 +1004,7 @@ Refusant de mourir au loin pour la nation<br /><br />
 Une nation qui ne fut jamais vraiment la mienne<br />
 Une alliance forcée de misère et de peine<br />
 Celle du génocide des premières nations<br />
-Celle de l’esclavage et des déportations<br /><br />
+Celle de l’esclavage et des déportations<br />
 
 7. Loo loo loo<br />
 loo loo loo<br />
