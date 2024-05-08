@@ -18,8 +18,7 @@ Version brouillon de jou (soprano).<br />
 [La Makhnovtchina](#la-makhnovtchina)<br />
 [La vie s'écoule](#la-vie-sécoule)<br />
 [La rue des Lilas](#la-rue-des-lilas)<br />
-[Je suis fille de marin](#je-suis-fille-de-marin)<br />
-
+[Je suis fille d'Amazigh](#je-suis-fille-damazigh)<br />
 
 [top](#chansonnier-jou) <br />
 
@@ -962,56 +961,62 @@ Je m’éteins dans la rue des Lilas...<br />
 
 [top](#chansonnier-jou) <br />
 
-## Je suis fille de marin
+## Je suis fille d'Amazigh
 
 1. Loo loo loo<br />
 loo loo loo<br />
 loo loo loo loo<br />
 loo loo loo<br />
 
-2. Je suis fille de marin qui traversa la mer<br />
-Je suis fille de soldat qui déteste la guerre<br />
-Je suis fille de forçat, criminel évadé<br />
-Et fille de fille du Roy, trop pauvre à marier<br /><br />
-Fille de coureuse des bois et de contrebandière<br />
-Enfant des sept nations et fille d’aventurière<br />
-Métisse et sang-mêlée, bien qu’on me l’ait caché<br />
-C’était sujet de honte, j’en ferai ma fierté<br />
+2. Je suis fille d’Amazigh, qui garde vos enfants<br />
+FillE de Chibani, peintre en bâtiment<br />
+P’titefille de Polonais, mineur près de Noyelle<br />
+Fille de Sénégalaise qui brique vos hôtels<br /><br />
+Ouvrière tunisienne, qu’exploitent des Français·es<br />
+Pa-ysanne bolivienne, qu’on a expropriée<br />
+Ils colonisent nos terres, comme ils ont pris nos corps<br />
+On ne se laisse pas faire, on les mettra dehors<br />
 
 3. Loo loo loo<br />
 loo loo loo<br />
 loo loo loo loo<br />
 loo loo loo<br />
 
-4. Je suis fille d’Irlandais, poussé par la famine<br />
-Je suis fille d’Écossais venu crever en usine<br />
-Dès l’âge de huit ans, seize heures sur les machines<br />
-Mais dieu sait que jamais je n’ai courbé l’échine<br /><br />
-Non, je suis resté droit, là devant les patrons<br />
-Même le jour où ils ont passé la conscription<br />
-J’suis fille de paysanne, et fille d’ouvrière<br />
-Je ne prends pas les armes contre d’autres en galère<br />
+4. Je suis fillE d’un homme qui a tué ma mère<br />
+Enfant de tous ceux qui coupèrent dans ma chair<br />
+Je suis unE putain qui traverse les frontières<br />
+Enfant palestinienne qui vous jette des pierres<br /><br />
+Je suis fille de sorcière que l’on a pas brûlée<br />
+J’accompagne les naissances et j’aide à avorter<br />
+Je soigne aussi nos mort·es pour qu’on reste vivant·es<br />
+Je n’ai pas de pays, je suis 
+fillE du vent<br />
 
 5. Loo loo loo<br />
 loo loo loo<br />
 loo loo loo loo<br />
 loo loo loo<br />
 
-6. l Ce n’était pas ma guerre, alors j’ai déserté<br />
-J’ai fui dans les forêts et je m’y suis caché<br />
-Refusant de servir_ de chair à canon<br />
-Refusant de mourir au loin pour la nation<br /><br />
-Une nation qui ne fut jamais vraiment la mienne<br />
-Une alliance forcée de misère et de peine<br />
-Celle du génocide des premières nations<br />
-Celle de l’esclavage et des déportations<br />
+6. Je suis lesbiennE noire, mère et aventurière<br />
+Je suis trans polonais qui brille dans la lumière<br />
+Sans état non binaire, handi, queer et sans âge<br />
+Je revendiquerai les chemins de bocages<br /><br />
+Je suis fillE des mers, on ne m’a pas noyée<br />
+Cessez de m’exploiter, cessez d’avoir pitié<br />
+MigrantE combattante pour me réinventer<br />
+C’était sujet de honte, j’en ferai ma 
+fierté<br />
 
 7. Loo loo loo<br />
 loo loo loo<br />
 loo loo loo loo<br />
 loo loo loo<br />
 
-8. Je n’aime pas le lys, je n’aime pas la croix<br />
+8. Je panse mes blessures au milieu des forêts<br />
+Entourée de mes sœurs, des animaux, des fées<br />
+J’habiterai le trouble jusque dans les cités<br />
+Où nous aurons tissé des liens d’adelphité<br /><br />
+Je n’aime pas le lys, je n’aime pas la croix<br />
 Une est pour les curés, et l’autre est pour les rois<br />
 Si j’aime mon pays, la terre qui m’a vu naître<br />
 Je ne veux pas de dieu, je ne veux pas de maître<br />
@@ -1023,5 +1028,4 @@ loo loo loo loo<br />
 loo loo loo<br />
 
 [top](#chansonnier-jou) <br />
-
 
