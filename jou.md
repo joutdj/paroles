@@ -24,7 +24,7 @@ Version brouillon de jou (soprano).<br />
 
 ## Allez les gars
 
-https://github.com/joutdj/paroles/assets/164751140/8fcafae8-0f1e-44b3-bbca-dd1e638d0150
+https://github.com/joutdj/paroles/assets/164751140/1596f8e7-01ec-4c64-b06c-d0e37a8abd52
 
 1. *(Levée basses : ~~ Oh, je n’oublierai pas~~)*<br />
 Ouuuu *(~~devant nous, les casqués~~)*<br />
