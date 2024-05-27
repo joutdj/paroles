@@ -24,6 +24,10 @@ Version brouillon de jou (soprano).<br />
 
 ## Allez les gars
 
+
+https://github.com/joutdj/paroles/assets/164751140/3ca2ef1f-a38f-43ef-8237-e726c19c5432
+
+
 1. *(Levée basses : ~~ Oh, je n’oublierai pas~~)*<br />
 Ouuuu *(~~devant nous, les casqués~~)*<br />
 Ouuuu ouuuu *(~~Les fusils lance-grenades et les grands boucliers~~)* <br />
@@ -970,7 +974,8 @@ loo loo loo<br />
 
 2. Je suis fille d’Amazigh, qui garde vos enfants<br />
 FillE de Chibani, peintre en bâtiment<br />
-P’titefille de Polonais, mineur près de Noyelle<br />
+P’tite
+fille de Polonais, mineur près de Noyelle<br />
 Fille de Sénégalaise qui brique vos hôtels<br /><br />
 Ouvrière tunisienne, qu’exploitent des Français·es<br />
 Pa-ysanne bolivienne, qu’on a expropriée<br />
