@@ -24,9 +24,7 @@ Version brouillon de jou (soprano).<br />
 
 ## Allez les gars
 
-
-https://github.com/joutdj/paroles/assets/164751140/3ca2ef1f-a38f-43ef-8237-e726c19c5432
-
+https://github.com/joutdj/paroles/assets/164751140/8fcafae8-0f1e-44b3-bbca-dd1e638d0150
 
 1. *(Levée basses : ~~ Oh, je n’oublierai pas~~)*<br />
 Ouuuu *(~~devant nous, les casqués~~)*<br />
@@ -791,15 +789,7 @@ Les avaient jetés au vent.<br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 
-4. *(S+A, lent, croches :)*<br />
-Makhnovtchina, Makhnovtchina, <br />
-Tes drapeaux sont noirs dans le vent. <br />
-Ils sont noirs de notre peine, <br />
-Ils sont rouges de notre sang.<br />
-Ils sont noirs de notre peine, <br />
-Ils sont rouges de notre sang.<br />
-
-5. *(Tutti, rapide, croches pointées :)*<br />
+4. *(Tutti, rapide, croches pointées :)*<br />
 L'armée blanche de Dénikine<br />
 Est entrée en Ukraine en chantant, <br />
 Mais bientôt la Makhnovtchina <br />
@@ -807,7 +797,7 @@ L'a dispersée dans le vent. <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 
-6. *(Tutti, rapide, croches pointées :)*<br />
+5. *(Tutti, rapide, croches pointées :)*<br />
 Makhnovtchina, Makhnovtchina,<br />
 Armée noire de nos partisans,<br />
 Qui combattaient en Ukraine<br />
@@ -815,7 +805,7 @@ Contre les rouges et les blancs<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 
-7. *(Tutti, rapide, croches pointées :)*<br />
+6. *(Tutti, rapide, croches pointées :)*<br />
 Makhnovtchina, Makhnovtchina, <br />
 Armée noire de nos partisans, <br />
 Qui voulaient chasser d'Ukraine <br />
@@ -823,13 +813,12 @@ A jamais tous les tyrans. <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 
-8. *(S+A, lent, croches :)*<br />
+7. *(S+A, lent, croches :)*<br />
 Makhnovtchina, Makhnovtchina <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
-
-9. *(Tutti lent, croches, rallentando)*<br />
+*(Tutti lent, croches, rallentando)*<br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
