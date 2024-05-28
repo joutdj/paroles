@@ -24,8 +24,6 @@ Version brouillon de jou (soprano).<br />
 
 ## Allez les gars
 
-https://raw.githubusercontent.com/joutdj/paroles/assets/164751140/1596f8e7-01ec-4c64-b06c-d0e37a8abd52
-
 1. *(Levée basses : ~~ Oh, je n’oublierai pas~~)*<br />
 Ouuuu *(~~devant nous, les casqués~~)*<br />
 Ouuuu ouuuu *(~~Les fusils lance-grenades et les grands boucliers~~)* <br />
@@ -994,7 +992,7 @@ loo loo loo<br />
 6. Je suis lesbiennE noire, mère et aventurière<br />
 Je suis trans polonais qui brille dans la lumière<br />
 Sans état non binaire, handi, queer et sans âge<br />
-Je revendiquerai les chemins de bocages<br /><br />
+Je revendiquerai les chemins de bocage<br /><br />
 Je suis fillE des mers, on ne m’a pas noyée<br />
 Cessez de m’exploiter, cessez d’avoir pitié<br />
 MigrantE combattante pour me réinventer<br />
@@ -1020,6 +1018,8 @@ Je ne veux pas de dieu, je ne veux pas de maître<br />
 loo loo loo<br />
 loo loo loo loo<br />
 loo loo loo<br />
+
+*(Notes. __Amazigh__ : Terme berbère signifiant « homme libre », sous lequel se désignent les Berbères. __Chibani__ : Immigré maghrébin de la première génération, arrivé en France au début des années 1960 pour y travailler, et qui a fait le choix, la retraite venue, de ne pas retourner dans son pays d'origine __Noyelles__ : L'une des communes des Hauts-de-France dans laquelle de nombreux marocains ont immigré à partir des années 1960 et ont travaillé en tant que mineurs, mais sans pouvoir bénéficier de ce statut avant longtemps. __Chemins de bocage__ : Chemins creux en Normandie qui ont notamment servi de protection pour les soldats et la population durant la seconde guerre mondiale, et sont aujourd'hui des chemins de randonnée privilégiés.)*<br />
 
 [top](#chansonnier-jou) <br />
 
