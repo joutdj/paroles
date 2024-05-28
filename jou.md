@@ -24,6 +24,8 @@ Version brouillon de jou (soprano).<br />
 
 ## Allez les gars
 
+https://raw.githubusercontent.com/joutdj/paroles/assets/164751140/1596f8e7-01ec-4c64-b06c-d0e37a8abd52
+
 1. *(Levée basses : ~~ Oh, je n’oublierai pas~~)*<br />
 Ouuuu *(~~devant nous, les casqués~~)*<br />
 Ouuuu ouuuu *(~~Les fusils lance-grenades et les grands boucliers~~)* <br />
@@ -787,15 +789,7 @@ Les avaient jetés au vent.<br />
 A l'automne la Makhnovtchina <br />
 Les avaient jetés au vent.<br />
 
-4. *(S+A, lent, croches :)*<br />
-Makhnovtchina, Makhnovtchina, <br />
-Tes drapeaux sont noirs dans le vent. <br />
-Ils sont noirs de notre peine, <br />
-Ils sont rouges de notre sang.<br />
-Ils sont noirs de notre peine, <br />
-Ils sont rouges de notre sang.<br />
-
-5. *(Tutti, rapide, croches pointées :)*<br />
+4. *(Tutti, rapide, croches pointées :)*<br />
 L'armée blanche de Dénikine<br />
 Est entrée en Ukraine en chantant, <br />
 Mais bientôt la Makhnovtchina <br />
@@ -803,7 +797,7 @@ L'a dispersée dans le vent. <br />
 Mais bientôt la Makhnovtchina <br />
 L'a dispersée dans le vent. <br />
 
-6. *(Tutti, rapide, croches pointées :)*<br />
+5. *(Tutti, rapide, croches pointées :)*<br />
 Makhnovtchina, Makhnovtchina,<br />
 Armée noire de nos partisans,<br />
 Qui combattaient en Ukraine<br />
@@ -811,7 +805,7 @@ Contre les rouges et les blancs<br />
 Qui combattaient en Ukraine<br />
 Contre les rouges et les blancs<br />
 
-7. *(Tutti, rapide, croches pointées :)*<br />
+6. *(Tutti, rapide, croches pointées :)*<br />
 Makhnovtchina, Makhnovtchina, <br />
 Armée noire de nos partisans, <br />
 Qui voulaient chasser d'Ukraine <br />
@@ -819,13 +813,12 @@ A jamais tous les tyrans. <br />
 Qui voulaient chasser d'Ukraine <br />
 A jamais tous les tyrans. <br />
 
-8. *(S+A, lent, croches :)*<br />
+7. *(S+A, lent, croches :)*<br />
 Makhnovtchina, Makhnovtchina <br />
 Tes drapeaux sont noirs dans le vent. <br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
-
-9. *(Tutti lent, croches, rallentando)*<br />
+*(Tutti lent, croches, rallentando)*<br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
@@ -970,7 +963,8 @@ loo loo loo<br />
 
 2. Je suis fille d’Amazigh, qui garde vos enfants<br />
 FillE de Chibani, peintre en bâtiment<br />
-P’titefille de Polonais, mineur près de Noyelle<br />
+P’tite
+fille de Polonais, mineur près de Noyelle<br />
 Fille de Sénégalaise qui brique vos hôtels<br /><br />
 Ouvrière tunisienne, qu’exploitent des Français·es<br />
 Pa-ysanne bolivienne, qu’on a expropriée<br />
