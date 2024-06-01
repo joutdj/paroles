@@ -166,7 +166,7 @@ Des millions à vous crier<br />
 ## La Makhnovtchina 
 [top](#chansonnier-jou) <br />
 
-BTAS : si si si si<br />
+> BTAS : si si si si<br />
 
 1. *(S+A, lent, croches :)*<br />
 Makhnovtchina, Makhnovtchina, <br />
@@ -231,6 +231,8 @@ Ils sont rouges de notre sang.<br />
 [top](#chansonnier-jou) <br />
 
 *(Texte et musique : Sylvain Girault)*<br />
+
+> BTAS : la la ré ré 
 
 1. oooh oooh *(~~Ce soir je meurs à la guerre~~)*<br />
 oooh oooh *(~~Aujourd’hui pour moi sonne le glas~~)*<br />
@@ -313,6 +315,8 @@ Je m’éteins dans la rue des Lilas...<br />
 ## Je suis fille d'Amazigh
 [top](#chansonnier-jou) <br />
 
+BTAS : ré ré la ré
+
 1. Loo loo loo<br />
 loo loo loo<br />
 loo loo loo loo<br />
@@ -386,6 +390,8 @@ loo loo loo<br />
 [top](#chansonnier-jou) <br />
 
 *(Chanson d'Anne Sylvestre)*<br />
+
+> BTAS : si fa# si ré
 
 1. *(~~On l'a dit à la grand-mère~~)*<br />
 *(~~Qui l'a dit à son voisin~~)*<br />
@@ -497,6 +503,8 @@ Se reposeraient enfin<br />
 ## La révolte 
 [top](#chansonnier-jou) <br />
 
+> BTAS : si → sol
+
 1. Nous sommes les persécuté-e-s<br />
 De tous les temps et de toutes les guerres<br />
 Toujours nous fûmes exploité-e-s<br />
@@ -578,6 +586,8 @@ Nous réaliserons l'Idéal libertaire !__<br />
 ## La vie s'écoule 
 [top](#chansonnier-jou) <br />
 
+> BTAS : fa# → sol
+
 1. La vie s'écoule, la vie s'enfuit<br />
 les jours défilent au pas de l'ennui<br />
 Parti des rouges, parti des gris<br />
@@ -628,6 +638,8 @@ pour profiter de nos combats<br />
 [top](#chansonnier-jou) <br />
 
 *(Paroles et musique de Christian Paccoud)*<br />
+
+> Voix 1+2 : mi♭
 
 1. __Craches le feu, l’amour et dis ton nom !<br />
 Qu’on l’entende, qu’on l’entende !<br />
@@ -706,6 +718,8 @@ __Qu'on l'entendE dans la rue Royaume__ <br />
 ## Bella Ciao
 [top](#chansonnier-jou) <br />
 
+> BTAS : si → mi
+
 1. *(lent :)* Una mattina mi son svegliata<br />
 __o bella ciao, bella ciao, bella ciao ciao ciao__ <br />
 una mattina mi son svegliata<br />
@@ -750,6 +764,8 @@ questa canzone porterò<br />
 
 ## Il galleone 
 [top](#chansonnier-jou) <br />
+
+> BTAS : la
 
 1. hm-mm-mm-mmmm hm-mm hm-mm<br />
 hm-hm-hm-mmmm hm-mm-mmmm<br />
@@ -817,6 +833,8 @@ O libertà o morte!<br />
 ## Canción sin miedo
 [top](#chansonnier-jou) <br />
 
+> BTAS : ré fa la ré
+
 1. *(Montée et crescendo p-mp-mf-f :)* aaaah-aaaah aaaah-aaaah aaaah-aaaah aaaah-aaaah
 
 2. ou ou ou *(~~Que tiemble el Estado, los cielos, las calles~~)*<br />
@@ -876,6 +894,8 @@ Al sororo rugir del amor<br />
 ### Version en français 
 [top](#chansonnier-jou) <br />
 [Aller à la version en catalan](#version-en-catalan)
+
+> BTAS : la
 
 1. Du temps où je n'étais qu'un gosse <br />
 Mon grand-père me disait souvent <br />
@@ -939,6 +959,8 @@ Segur que to*u*mba, to*u*mba, to*u*mba <br />
 ### Version en catalan
 [top](#chansonnier-jou) <br />
 [Aller à la version en français](#version-en-français)
+
+> BTAS : la
 
 1. L’avi	Siset	em	parlava<br />
 De	bon	matí al	portal*<br />
@@ -1004,6 +1026,8 @@ I’ens podrem aliberar.<br />
 ## Here's to you 
 [top](#chansonnier-jou) <br />
 
+> B(ATS) : ré (fa# la fa#)
+
 1. __Here's to you Nicola and Bart<br />
 Rest forever here in our hearts<br />
 The last and final moment is yours<br />
@@ -1014,6 +1038,8 @@ That agony is your triumph__ <br />
 
 ## The digger's song
 [top](#chansonnier-jou) <br />
+
+BTAS : si → mi
 
 1. __You noble diggers all stand up now, stand up now,<br />
 You noble diggers all stand up now__ <br />
@@ -1045,17 +1071,6 @@ The lawyers they conjoin, stand up now__ <br />
 To rescue they advise, such fury they_ devise, <br />
 The devil in them lies and hath blinded both their eyes<br />
 Stand up now, stand up now<br />
-
-[top](#chansonnier-jou) <br />
-
-
-
-
-
-
-
-
-
 
 [top](#chansonnier-jou) <br />
 
