@@ -22,14 +22,12 @@ Version brouillon de jou (soprano).<br />
 [Here's to you](#heres-to-you)<br />
 [The digger's song](#the-diggers-song)<br />
 
-[top](#chansonnier-jou) <br />
-
 ## Allez les gars
 [top](#chansonnier-jou) <br />
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
-1. *(Levée basses : ~~ Oh, je n’oublierai pas~~)*<br />
+1. *(Levée basses : ~~Oh, je n’oublierai pas~~)*<br /> 
 Ouuuu *(~~devant nous, les casqués~~)*<br />
 Ouuuu ouuuu *(~~Les fusils lance-grenades et les grands boucliers~~)* <br />
 Ouuuu ouuuu *(~~Tout ça pour nous forcer quand nous n’avions pour nous~~)* <br />
@@ -89,8 +87,6 @@ Avant les bosses de te causer<br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
-
-[top](#chansonnier-jou) <br />
 
 ## A bas l'état policier
 
@@ -161,8 +157,6 @@ Des millions à vous crier<br />
 À bas l’État policier<br />
 À bas l’État policier !__ <br />
 
-[top](#chansonnier-jou) <br />
-
 ## La Makhnovtchina 
 [top](#chansonnier-jou) <br />
 
@@ -224,8 +218,6 @@ Ils sont rouges de notre sang.<br />
 *(Tutti lent, croches, rallentando)*<br />
 Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
-
-[top](#chansonnier-jou) <br />
 
 ## La rue des Lilas
 [top](#chansonnier-jou) <br />
@@ -310,12 +302,10 @@ Je m’éteins dans la rue des Lilas...<br />
 
 *(Notes. __Dabkeh__ : danse populaire traditionnelle de Syrie, du Liban, de Palestine et de Jordanie. __Arak__ : eau-de-vie de vin, traditionnellement produite et consommée au Liban, en Syrie, en Jordanie, en Palestine.)*<br />
 
-[top](#chansonnier-jou) <br />
-
 ## Je suis fille d'Amazigh
 [top](#chansonnier-jou) <br />
 
-BTAS : ré ré la ré
+> BTAS : ré ré la ré
 
 1. Loo loo loo<br />
 loo loo loo<br />
@@ -383,8 +373,6 @@ loo loo loo loo<br />
 loo loo loo<br />
 
 *(Notes. __Amazigh__ : Terme berbère signifiant « homme libre », sous lequel se désignent les Berbères. __Chibani__ : Immigré maghrébin de la première génération, arrivé en France au début des années 1960 pour y travailler, et qui a fait le choix, la retraite venue, de ne pas retourner dans son pays d'origine __Noyelles__ : L'une des communes des Hauts-de-France dans laquelle de nombreux marocains ont immigré à partir des années 1960 et ont travaillé en tant que mineurs, mais sans pouvoir bénéficier de ce statut avant longtemps. __Chemins de bocage__ : Chemins creux en Normandie qui ont notamment servi de protection pour les soldats et la population durant la seconde guerre mondiale, et sont aujourd'hui des chemins de randonnée privilégiés.)*<br />
-
-[top](#chansonnier-jou) <br />
 
 ## Clémence en vacances 
 [top](#chansonnier-jou) <br />
@@ -498,8 +486,6 @@ Se reposeraient enfin<br />
 
 14. Choubidou bidou...<br />
 
-[top](#chansonnier-jou) <br />
-
 ## La révolte 
 [top](#chansonnier-jou) <br />
 
@@ -581,8 +567,6 @@ Donnons l'assaut au monde autoritaire,<br />
 Et d'un cœur solidaire,<br />
 Nous réaliserons l'Idéal libertaire !__<br />
 
-[top](#chansonnier-jou) <br />
-
 ## La vie s'écoule 
 [top](#chansonnier-jou) <br />
 
@@ -631,8 +615,6 @@ Plus de dirigeants,_ 'plus d'État<br />
 pour profiter de nos combats<br />
 Plus de dirigeants,_ 'plus d'État<br />
 pour profiter de nos combats<br />
-
-[top](#chansonnier-jou) <br />
 
 ## Avenue du Dragon
 [top](#chansonnier-jou) <br />
@@ -713,8 +695,6 @@ Craches les feu, l’amour et dit ton nom !__<br />
 *(fort :)*<br />
 __Qu'on l'entendE dans la rue Royaume__ <br />
 
-[top](#chansonnier-jou) <br />
-
 ## Bella Ciao
 [top](#chansonnier-jou) <br />
 
@@ -759,8 +739,6 @@ e quest'é'il fiore dei partigiani<br />
 __o bella ciao, bella ciao,bella ciao, ciao, ciao__ <br />
 alle compagne, sorelle'e figlie<br />
 questa canzone porterò<br />
-
-[top](#chansonnier-jou) <br />
 
 ## Il galleone 
 [top](#chansonnier-jou) <br />
@@ -828,8 +806,6 @@ hm-hm-hm-hmm hm-hm-hmmm<br />
 13. Giuriam giuriam giustizia!<br />
 O libertà o morte!<br />
 
-[top](#chansonnier-jou) <br />
-
 ## Canción sin miedo
 [top](#chansonnier-jou) <br />
 
@@ -886,8 +862,6 @@ Que caiga con fuerza el feminicida<br />
 Al sororo rugir del amor<br />
 Y retiemblen sus centros la tierra<br />
 Al sororo rugir del amor<br />
-
-[top](#chansonnier-jou) <br />
 
 ## L'estaca 
  
@@ -1021,8 +995,6 @@ Laï	laï	Laï	laï	Laï	laï	Laï	laï	<br />
 Segur que tomba, tomba, tomba <br />
 I’ens podrem aliberar.<br />
 
-[top](#chansonnier-jou) <br />
-
 ## Here's to you 
 [top](#chansonnier-jou) <br />
 
@@ -1034,12 +1006,10 @@ The last and final moment is yours<br />
 That agony is your triumph__ <br />
 *(Répéter 3x, puis 2x sur lalala)*<br />
 
-[top](#chansonnier-jou) <br />
-
 ## The digger's song
 [top](#chansonnier-jou) <br />
 
-BTAS : si → mi
+> BTAS : si → mi
 
 1. __You noble diggers all stand up now, stand up now,<br />
 You noble diggers all stand up now__ <br />
