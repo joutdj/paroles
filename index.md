@@ -1,6 +1,14 @@
-# Chorale anarchiste de Genève
+# chorale anar de gneve
 
-## Liens pour les paroles
+## liens des paroles
 
-- [page test](./jou.md)
+- [soprano.md](./soprano.md)
+- [alto.md](./alto.md)
+- [tenor.md](./tenor.md)
+- [basse.md](./basse.md)
 
+## pages de test
+
+- [jou tests](./jou.md)
+
+ 
