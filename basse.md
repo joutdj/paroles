@@ -1,6 +1,6 @@
-# Chansonnier-jou
+# Chansonnier basse
 
-Version brouillon de jou (soprano).<br />
+[home](./index.md)<br />
 
 ## Sommaire
 
@@ -23,33 +23,33 @@ Version brouillon de jou (soprano).<br />
 [The digger's song](#the-diggers-song)<br />
 
 ## Allez les gars
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : mi♭ - si♭ - mi♭ - sol<br /> 
 
-1. *(Levée basses : ~~Oh, je n’oublierai pas~~)*<br /> 
-Ouuuu *(~~devant nous, les casqués~~)*<br />
-Ouuuu ouuuu *(~~Les fusils lance-grenades et les grands boucliers~~)* <br />
-Ouuuu ouuuu *(~~Tout ça pour nous forcer quand nous n’avions pour nous~~)* <br />
-Ouuuu ouuuu *(~~Que nos poings, le bon droit, et puis quelques cailloux.~~)* <br />
+1. Oh, je n’oublierai pas<br /> 
+*(~~Ouuuu~~)* Devant nous, les casqués<br />
+*(~~Ouuuu ouuuu~~)* Les fusils lance-grenades et les grands boucliers <br />
+*(~~Ouuuu ouuuu~~)* Tout ça pour nous forcer quand nous n’avions pour nous <br />
+*(~~Ouuuu ouuuu~~)* Que nos poings, le bon droit, et puis quelques cailloux. <br />
 
-2. Ouuuu ouuuu *(~~D’abord on s’avançait en frappant dans les mains~~)* <br />
-Ouuuu ouuuu *(~~Y en avait parmi eux des vraies têtes de gamins~~)* <br />
-Ouuuu ouuuu *(~~Les regards s’affrontaient, face à face, de tout près~~)* <br />
-Ouuuu ouuuuu *(~~Eux devaient la boucler, nous pas, et on chantait:~~)* <br />
+2. *(~~Ouuuu ouuuu~~)* D’abord on s’avançait en frappant dans les mains <br />
+*(~~Ouuuu ouuuu~~)* Y en avait parmi eux des vraies têtes de gamins <br />
+*(~~Ouuuu ouuuu~~)* Les regards s’affrontaient, face à face, de tout près <br />
+*(~~Ouuuu ouuuuu~~)* Eux devaient la boucler, nous pas, et on chantait: <br />
 
 3. *(Tutti :)* __Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-4. ↓Combien ça vaut, quel est le prix<br />
-↓De te faire détester ainsi<br />
+4. Combien ça vaut, quel est le prix<br />
+De te faire détester ainsi<br />
 Par tout ces gens qu’tu connais pas <br />
 Qui sans ça n’auraient rien contr’toi <br />
 
-5. ↑Tu sais nous on n’est pas méchant-e-s<br />
-↑On ne grenade pas les enfants<br />
+5. Tu sais nous on n’est pas méchant-e-s<br />
+On ne grenade pas les enfants<br />
 On nous attaque, on se défend <br />
 Désolé si c’est toi qui prends <br />
 
@@ -58,13 +58,13 @@ Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-7. ↓Pense à ceux pour qui tu travailles<br />
-↓Qu’on voit jamais dans la bataille<br />
+7. Pense à ceux pour qui tu travailles<br />
+Qu’on voit jamais dans la bataille<br />
 Pendant qu’tu encaisses des cailloux <br />
 Les actionnaires ramassent les sous <br />
 
-8. ↑Avoue franchement, c’est quand même pas<br />
-↑La vie qu’t’avais rêvé pour toi,<br />
+8. Avoue franchement, c’est quand même pas<br />
+La vie qu’t’avais rêvé pour toi,<br />
 Cogner des gens pour faire tes heures <br />
 T’aurais mieux fait d’rester chômeur<br />
 
@@ -73,13 +73,13 @@ Combien on vous paye pour faire ça <br />
 Allez les gars combien on vous paye <br />
 Combien on vous paye pour faire ça__ <br />
 
-10. ↓Je ne me fais guère d’illusions<br />
-↓Sur la portée de cette chanson<br />
+10. Je ne me fais guère d’illusions<br />
+Sur la portée de cette chanson<br />
 Je sais qu’tu vas pas hésiter <br />
 Dans deux minutes à m’castagner <br />
 
-11. ↑Je sais qu’tu vas pas hésiter<br />
-↑T’es bien dressé, baratiné,<br />
+11. Je sais qu’tu vas pas hésiter<br />
+T’es bien dressé, baratiné,<br />
 Mais au moins j’aurai essayé <br />
 Avant les bosses de te causer<br />
 
@@ -91,7 +91,7 @@ Combien on vous paye pour faire ça__ <br />
 ## A bas l'état policier
 
 ### Canon court 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : do sol mi sol<br />
 
@@ -101,7 +101,7 @@ AA bas-l'ééétat _ poolii...__<br />
 -cier. <br />
 
 ### Version complète 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : do mi do do<br />
 
@@ -158,7 +158,7 @@ Des millions à vous crier<br />
 À bas l’État policier !__ <br />
 
 ## La Makhnovtchina 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : si si si si<br />
 
@@ -220,7 +220,7 @@ Ils sont noirs de notre peine, <br />
 Ils sont rouges de notre sang.<br />
 
 ## La rue des Lilas
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 *(Texte et musique : Sylvain Girault)*<br />
 
@@ -303,7 +303,7 @@ Je m’éteins dans la rue des Lilas...<br />
 *(Notes. __Dabkeh__ : danse populaire traditionnelle de Syrie, du Liban, de Palestine et de Jordanie. __Arak__ : eau-de-vie de vin, traditionnellement produite et consommée au Liban, en Syrie, en Jordanie, en Palestine.)*<br />
 
 ## Je suis fille d'Amazigh
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : ré ré la ré
 
@@ -375,7 +375,7 @@ loo loo loo<br />
 *(Notes. __Amazigh__ : Terme berbère signifiant « homme libre », sous lequel se désignent les Berbères. __Chibani__ : Immigré maghrébin de la première génération, arrivé en France au début des années 1960 pour y travailler, et qui a fait le choix, la retraite venue, de ne pas retourner dans son pays d'origine __Noyelles__ : L'une des communes des Hauts-de-France dans laquelle de nombreux marocains ont immigré à partir des années 1960 et ont travaillé en tant que mineurs, mais sans pouvoir bénéficier de ce statut avant longtemps. __Chemins de bocage__ : Chemins creux en Normandie qui ont notamment servi de protection pour les soldats et la population durant la seconde guerre mondiale, et sont aujourd'hui des chemins de randonnée privilégiés.)*<br />
 
 ## Clémence en vacances 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 *(Chanson d'Anne Sylvestre)*<br />
 
@@ -487,7 +487,7 @@ Se reposeraient enfin<br />
 14. Choubidou bidou...<br />
 
 ## La révolte 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : si → sol
 
@@ -568,7 +568,7 @@ Et d'un cœur solidaire,<br />
 Nous réaliserons l'Idéal libertaire !__<br />
 
 ## La vie s'écoule 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : fa# → sol
 
@@ -617,7 +617,7 @@ Plus de dirigeants,_ 'plus d'État<br />
 pour profiter de nos combats<br />
 
 ## Avenue du Dragon
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 *(Paroles et musique de Christian Paccoud)*<br />
 
@@ -696,7 +696,7 @@ Craches les feu, l’amour et dit ton nom !__<br />
 __Qu'on l'entendE dans la rue Royaume__ <br />
 
 ## Bella Ciao
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : si → mi
 
@@ -741,7 +741,7 @@ alle compagne, sorelle'e figlie<br />
 questa canzone porterò<br />
 
 ## Il galleone 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : la
 
@@ -807,7 +807,7 @@ hm-hm-hm-hmm hm-hm-hmmm<br />
 O libertà o morte!<br />
 
 ## Canción sin miedo
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : ré fa la ré
 
@@ -866,8 +866,8 @@ Al sororo rugir del amor<br />
 ## L'estaca 
  
 ### Version en français 
-[top](#chansonnier-jou) <br />
-[Aller à la version en catalan](#version-en-catalan)
+
+[Aller à la version en catalan](#version-en-catalan) | [top](#chansonnier-basse) <br />
 
 > BTAS : la
 
@@ -931,7 +931,7 @@ Segur que to*u*mba, to*u*mba, to*u*mba <br />
 \_i’ens po*u*drem aliberar.__ <br />
 
 ### Version en catalan
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 [Aller à la version en français](#version-en-français)
 
 > BTAS : la
@@ -996,7 +996,7 @@ Segur que tomba, tomba, tomba <br />
 I’ens podrem aliberar.<br />
 
 ## Here's to you 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > B(ATS) : ré (fa# la fa#)
 
@@ -1007,7 +1007,7 @@ That agony is your triumph__ <br />
 *(Répéter 3x, puis 2x sur lalala)*<br />
 
 ## The digger's song
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 > BTAS : si → mi
 
@@ -1042,6 +1042,6 @@ To rescue they advise, such fury they_ devise, <br />
 The devil in them lies and hath blinded both their eyes<br />
 Stand up now, stand up now<br />
 
-[top](#chansonnier-jou) <br />
+[top](#chansonnier-basse) <br />
 
 
