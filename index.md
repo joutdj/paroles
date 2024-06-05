@@ -12,9 +12,9 @@
 - [online piano 1 - online pianist](https://www.onlinepianist.com/virtual-piano)
 - [online piano 2 - musicca](https://www.musicca.com/piano)
 - [online piano 3 - virtual piano](https://virtualpiano.net)
-    
-- [notre merveilleux profil insta](https://www.instagram.com/lachoraleanardegneve)
+
 - notre email : la *tiret* korage *at* riseup *point* net
+- [notre merveilleux profil insta](https://www.instagram.com/lachoraleanardegneve)
     
 - [chorale anarchiste de lausanne](https://lachorale.ch)
 
