@@ -1,7 +1,5 @@
 # Chansonnier soprano
 
-[home](./index.md)<br />
-
 ## Sommaire
 
 ### En Français

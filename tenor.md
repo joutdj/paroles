@@ -1,7 +1,5 @@
 # Chansonnier tenor
 
-[home](./index.md)<br />
-
 ## Sommaire
 
 ### En Français

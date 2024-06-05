@@ -1,7 +1,5 @@
 # Chansonnier basse
 
-[home](./index.md)<br />
-
 ## Sommaire
 
 ### En Français
