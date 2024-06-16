@@ -7,21 +7,21 @@
 - [tenor.md](./tenor.md)
 - [basse.md](./basse.md)
 
-## liens externes 
+## pianos en ligne 
 
 - [online piano 1 - online pianist](https://www.onlinepianist.com/virtual-piano)
 - [online piano 2 - musicca](https://www.musicca.com/piano)
 - [online piano 3 - virtual piano](https://virtualpiano.net)
 
-- notre email : la *tiret* korage *at* riseup *point* net
-- [notre merveilleux profil insta](https://www.instagram.com/lachoraleanardegneve)
-    
-- [chorale anarchiste de lausanne](https://lachorale.ch)
+## liens
+### chorale anar de gnève
+- [notre profil insta](https://www.instagram.com/lachoraleanardegneve)
+- - notre email : la *tiret* korage *at* riseup *point* net (compter un délai de réponse)
+### chorale anarchiste de lausanne
+- [site de la chorale anarchiste de lausanne](https://lachorale.ch)
 
 ## évènements à venir 
- 
-- 13 juin : répétition 
-- 14 juin : concert possible à l'occasion de la grève féministe
+
 - 21-22-23 juin : participations à la fête de la musique (détails à préciser)
 - 27 juin : répétition 
 
@@ -30,8 +30,5 @@
 - [readme](./README.md)
 - [license](./LICENSE.txt)
 
-## pages de test
-
-- [tests de jou](./jou.md)
 
  
